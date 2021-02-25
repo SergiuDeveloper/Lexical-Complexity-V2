@@ -1,0 +1,4435 @@
+Word: "hired_hand"
+Complexity: 0.0
+Predicted complexity: 0.19087761670696984
+MSE: 0.03643426455973289
+
+Word: "hired_hand"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.19087761670696984
+MSE: 0.018238197550393277
+
+Word: "hired_hand"
+Complexity: 0.2
+Predicted complexity: 0.19087761670696984
+MSE: 0.012186537659243837
+
+Word: "hired_hand"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.19087761670696984
+MSE: 0.010621365106009173
+
+Word: "entrance"
+Complexity: 0.0
+Predicted complexity: 0.23185883243385758
+MSE: 0.019248795720325666
+
+Word: "price"
+Complexity: 0.25
+Predicted complexity: 0.21532483597896926
+MSE: 0.016241057600252285
+
+Word: "armor"
+Complexity: 0.02777777777777779
+Predicted complexity: 0.19739135942292804
+MSE: 0.01803073038285854
+
+Word: "armor"
+Complexity: 0.2
+Predicted complexity: 0.19739135942292804
+MSE: 0.015777739710708765
+
+Word: "armor"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.19739135942292804
+MSE: 0.014093165492558611
+
+Word: "armor"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.19739135942292804
+MSE: 0.0141735444996297
+
+Word: "armor"
+Complexity: 0.390625
+Predicted complexity: 0.19739135942292804
+MSE: 0.01627951680426964
+
+Word: "battle"
+Complexity: 0.04999999999999999
+Predicted complexity: 0.30932040813886835
+MSE: 0.020526813243689608
+
+Word: "battle"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.30932040813886835
+MSE: 0.020513219144637926
+
+Word: "battle"
+Complexity: 0.21052631578947367
+Predicted complexity: 0.30932040813886835
+MSE: 0.01974515154024527
+
+Word: "battle"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.30932040813886835
+MSE: 0.018786114848982145
+
+Word: "battle"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.30932040813886835
+MSE: 0.01761286855310664
+
+Word: "lamb"
+Complexity: 0.04999999999999999
+Predicted complexity: 0.25446396160935913
+MSE: 0.019035965202747043
+
+Word: "lamb"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.25446396160935913
+MSE: 0.018109532285971564
+
+Word: "lamb"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.25446396160935913
+MSE: 0.017280618623593504
+
+Word: "soundbox"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.16779213952842675
+MSE: 0.01645758995401241
+
+Word: "soundbox"
+Complexity: 0.30681818181818177
+Predicted complexity: 0.16779213952842675
+MSE: 0.016594287595952422
+
+Word: "kingdom"
+Complexity: 0.05357142857142855
+Predicted complexity: 0.2857832100244609
+MSE: 0.01829101595275417
+
+Word: "kingdom"
+Complexity: 0.1875
+Predicted complexity: 0.2857832100244609
+MSE: 0.01791573653623061
+
+Word: "kingdom"
+Complexity: 0.1875
+Predicted complexity: 0.2857832100244609
+MSE: 0.017571730404417344
+
+Word: "kingdom"
+Complexity: 0.1875
+Predicted complexity: 0.2857832100244609
+MSE: 0.017255244763149144
+
+Word: "kingdom"
+Complexity: 0.2125
+Predicted complexity: 0.2857832100244609
+MSE: 0.01679813645962376
+
+Word: "yourselves"
+Complexity: 0.06666666666666665
+Predicted complexity: 2.9581066046567974
+MSE: 0.32582135047979965
+
+Word: "yourselves"
+Complexity: 0.25
+Predicted complexity: 2.9581066046567974
+MSE: 0.5761077801835842
+
+Word: "yourselves"
+Complexity: 0.4642857142857143
+Predicted complexity: 2.9581066046567974
+MSE: 0.7706951889100545
+
+Word: "Taurus"
+Complexity: 0.07500000000000001
+Predicted complexity: 0.2819490742549738
+MSE: 0.7464329465908857
+
+Word: "Taurus"
+Complexity: 0.125
+Predicted complexity: 0.2819490742549738
+MSE: 0.7231490777301955
+
+Word: "Taurus"
+Complexity: 0.17857142857142855
+Predicted complexity: 0.2819490742549738
+MSE: 0.7008846358519729
+
+Word: "Taurus"
+Complexity: 0.25
+Predicted complexity: 0.2819490742549738
+MSE: 0.67967663910936
+
+Word: "palm"
+Complexity: 0.08333333333333331
+Predicted complexity: 0.21227273772228208
+MSE: 0.6601751311945018
+
+Word: "palm"
+Complexity: 0.175
+Predicted complexity: 0.21227273772228208
+MSE: 0.6413526776454392
+
+Word: "palm"
+Complexity: 0.23214285714285715
+Predicted complexity: 0.21227273772228208
+MSE: 0.6235482927565601
+
+Word: "gravy_boat"
+Complexity: 0.0892857142857143
+Predicted complexity: 0.19509327997916068
+MSE: 0.6069982102755173
+
+Word: "gravy_boat"
+Complexity: 0.13333333333333336
+Predicted complexity: 0.19509327997916068
+MSE: 0.5911249492422062
+
+Word: "ear"
+Complexity: 0.15625
+Predicted complexity: 0.1766403017380267
+MSE: 0.5759785598874051
+
+Word: "twentieth"
+Complexity: 0.11764705882352945
+Predicted complexity: 0.2181130131673146
+MSE: 0.5618314310897752
+
+Word: "clothing"
+Complexity: 0.125
+Predicted complexity: 0.2296457121200752
+MSE: 0.548395316308686
+
+Word: "clothing"
+Complexity: 0.1527777777777778
+Predicted complexity: 0.2296457121200752
+MSE: 0.5354789678091947
+
+Word: "clothing"
+Complexity: 0.3392857142857143
+Predicted complexity: 0.2296457121200752
+MSE: 0.5233055250711874
+
+Word: "clothing"
+Complexity: 0.3522727272727273
+Predicted complexity: 0.2296457121200752
+MSE: 0.5117539764296889
+
+Word: "prince"
+Complexity: 0.125
+Predicted complexity: 0.2269785938678816
+MSE: 0.5006127688114129
+
+Word: "prince"
+Complexity: 0.1875
+Predicted complexity: 0.2269785938678816
+MSE: 0.489763764258421
+
+Word: "prince"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.2269785938678816
+MSE: 0.4793455211006376
+
+Word: "prince"
+Complexity: 0.25
+Predicted complexity: 0.2269785938678816
+MSE: 0.46937019743479724
+
+Word: "leadership"
+Complexity: 0.125
+Predicted complexity: 0.23397591618285193
+MSE: 0.4600335760648604
+
+Word: "wine"
+Complexity: 0.125
+Predicted complexity: 0.17000555537683013
+MSE: 0.4508734145438587
+
+Word: "wine"
+Complexity: 0.1805555555555556
+Predicted complexity: 0.17000555537683013
+MSE: 0.44203494175875896
+
+Word: "wine"
+Complexity: 0.1875
+Predicted complexity: 0.17000555537683013
+MSE: 0.43354015548633423
+
+Word: "pray"
+Complexity: 0.125
+Predicted complexity: 0.2334758838083114
+MSE: 0.42558217174825236
+
+Word: "west"
+Complexity: 0.125
+Predicted complexity: 0.26128592313325427
+MSE: 0.4180449806574381
+
+Word: "west"
+Complexity: 0.21052631578947367
+Predicted complexity: 0.26128592313325427
+MSE: 0.4104910089679883
+
+Word: "end"
+Complexity: 0.1388888888888889
+Predicted complexity: 0.26816755761624356
+MSE: 0.4034592583469156
+
+Word: "end"
+Complexity: 0.2352941176470588
+Predicted complexity: 0.26816755761624356
+MSE: 0.3963999847453102
+
+Word: "joy"
+Complexity: 0.14285714285714285
+Predicted complexity: 0.2012336040624786
+MSE: 0.3896242576156127
+
+Word: "joy"
+Complexity: 0.16176470588235292
+Predicted complexity: 0.2012336040624786
+MSE: 0.3830468599259168
+
+Word: "joy"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.2012336040624786
+MSE: 0.3766655848868395
+
+Word: "joy"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.2012336040624786
+MSE: 0.3704979609066004
+
+Word: "joy"
+Complexity: 0.234375
+Predicted complexity: 0.2012336040624786
+MSE: 0.36453990270044057
+
+Word: "witness"
+Complexity: 0.14705882352941174
+Predicted complexity: 0.3098818250406185
+MSE: 0.35917436979759415
+
+Word: "witness"
+Complexity: 0.2941176470588235
+Predicted complexity: 0.3098818250406185
+MSE: 0.35356615322743556
+
+Word: "jealousy"
+Complexity: 0.14705882352941174
+Predicted complexity: 0.16137646681582826
+MSE: 0.3481298277148485
+
+Word: "jealousy"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.16137646681582826
+MSE: 0.342873749265196
+
+Word: "terminology"
+Complexity: 0.23214285714285715
+Predicted complexity: 0.21204147824568878
+MSE: 0.3377622614468135
+
+Word: "terminology"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.21204147824568878
+MSE: 0.33293291591712376
+
+Word: "display_panel"
+Complexity: 0.1527777777777778
+Predicted complexity: 0.18158766075732755
+MSE: 0.3281198303148074
+
+Word: "display_panel"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.18158766075732755
+MSE: 0.3234324477013493
+
+Word: "display_panel"
+Complexity: 0.265625
+Predicted complexity: 0.18158766075732755
+MSE: 0.31897652976734425
+
+Word: "state"
+Complexity: 0.15625
+Predicted complexity: 0.2012430523924801
+MSE: 0.3145744165034033
+
+Word: "state"
+Complexity: 0.1764705882352941
+Predicted complexity: 0.2012430523924801
+MSE: 0.31027358442774594
+
+Word: "terminology"
+Complexity: 0.15625
+Predicted complexity: 0.21204147824568878
+MSE: 0.30612276151716616
+
+Word: "workplace"
+Complexity: 0.1842105263157895
+Predicted complexity: 0.2181450514972004
+MSE: 0.3020564787235944
+
+Word: "workplace"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.2181450514972004
+MSE: 0.29808629846799517
+
+Word: "workplace"
+Complexity: 0.29166666666666663
+Predicted complexity: 0.2181450514972004
+MSE: 0.294285248200841
+
+Word: "tenth"
+Complexity: 0.1607142857142857
+Predicted complexity: 0.2181130131673146
+MSE: 0.2905545990433075
+
+Word: "vision"
+Complexity: 0.1875
+Predicted complexity: 0.2260049361125525
+MSE: 0.28689546019598755
+
+Word: "vision"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.2260049361125525
+MSE: 0.28331054362820146
+
+Word: "people"
+Complexity: 0.16249999999999998
+Predicted complexity: 0.1820819452521012
+MSE: 0.2798176165782219
+
+Word: "people"
+Complexity: 0.19318181818181815
+Predicted complexity: 0.1820819452521012
+MSE: 0.27640670914652476
+
+Word: "people"
+Complexity: 0.2023809523809524
+Predicted complexity: 0.1820819452521012
+MSE: 0.2730814722856078
+
+Word: "sphere"
+Complexity: 0.21875
+Predicted complexity: 0.2208440628750023
+MSE: 0.2698305545810092
+
+Word: "sphere"
+Complexity: 0.25
+Predicted complexity: 0.2208440628750023
+MSE: 0.2666660782761695
+
+Word: "ruck"
+Complexity: 0.175
+Predicted complexity: 0.21542681876174308
+MSE: 0.2635843137342977
+
+Word: "shore_leave"
+Complexity: 0.17857142857142855
+Predicted complexity: 0.19465552283549084
+MSE: 0.2605575825199758
+
+Word: "report"
+Complexity: 0.32352941176470584
+Predicted complexity: 0.21399328713337343
+MSE: 0.2577330436572403
+
+Word: "tent"
+Complexity: 0.1805555555555556
+Predicted complexity: 0.2565144451447599
+MSE: 0.2549019954465705
+
+Word: "tent"
+Complexity: 0.25
+Predicted complexity: 0.2565144451447599
+MSE: 0.25207022258600353
+
+Word: "demeanor"
+Complexity: 0.38235294117647056
+Predicted complexity: 0.26057785905202013
+MSE: 0.24946317805897508
+
+Word: "signboard"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.23143300785364365
+MSE: 0.24676494036887142
+
+Word: "signboard"
+Complexity: 0.234375
+Predicted complexity: 0.23143300785364365
+MSE: 0.24411164698122537
+
+Word: "signboard"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.23143300785364365
+MSE: 0.24152882858366714
+
+Word: "tribe"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.23084359620464598
+MSE: 0.23899888716626366
+
+Word: "tribe"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.23084359620464598
+MSE: 0.23651008967587908
+
+Word: "tribe"
+Complexity: 0.25
+Predicted complexity: 0.23084359620464598
+MSE: 0.23407562450196664
+
+Word: "tribe"
+Complexity: 0.2647058823529411
+Predicted complexity: 0.23084359620464598
+MSE: 0.23169879827667297
+
+Word: "tribe"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.23084359620464598
+MSE: 0.22943770041841177
+
+Word: "Paul"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.23702993740979836
+MSE: 0.22715980812342307
+
+Word: "Paul"
+Complexity: 0.2352941176470588
+Predicted complexity: 0.23702993740979836
+MSE: 0.22491073094467876
+
+Word: "Paul"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.23702993740979836
+MSE: 0.22275176064465502
+
+Word: "shout"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.3094017305897792
+MSE: 0.22071098105049183
+
+Word: "shout"
+Complexity: 0.203125
+Predicted complexity: 0.3094017305897792
+MSE: 0.21869736338139914
+
+Word: "severity"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.1826960037213963
+MSE: 0.21684493583354744
+
+Word: "begin"
+Complexity: 0.2
+Predicted complexity: 0.35116466605744556
+MSE: 0.21501480206402585
+
+Word: "begin"
+Complexity: 0.25
+Predicted complexity: 0.35116466605744556
+MSE: 0.21310096549948832
+
+Word: "squab"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.1767212523561333
+MSE: 0.21113568220585724
+
+Word: "state"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.2012430523924801
+MSE: 0.20920021825010865
+
+Word: "state"
+Complexity: 0.234375
+Predicted complexity: 0.2012430523924801
+MSE: 0.20730837741103736
+
+Word: "state"
+Complexity: 0.28125
+Predicted complexity: 0.2012430523924801
+MSE: 0.2054984020439602
+
+Word: "legal_document"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.21922429014761152
+MSE: 0.20366365328854868
+
+Word: "sport"
+Complexity: 0.21875
+Predicted complexity: 0.3093825089195639
+MSE: 0.20193401256628768
+
+Word: "trap"
+Complexity: 0.21875
+Predicted complexity: 0.3104195692096407
+MSE: 0.20023637482376833
+
+Word: "wall"
+Complexity: 0.21875
+Predicted complexity: 0.2525074782542383
+MSE: 0.19850509823693632
+
+Word: "pearl"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.17761853046103104
+MSE: 0.19680976459294067
+
+Word: "eleventh"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.2181130131673146
+MSE: 0.19512777417418953
+
+Word: "Samuel"
+Complexity: 0.2307692307692308
+Predicted complexity: 0.22892580479743102
+MSE: 0.19347417776779224
+
+Word: "overthrow"
+Complexity: 0.23214285714285715
+Predicted complexity: 0.25216838827710725
+MSE: 0.19185171427308145
+
+Word: "sealing_wax"
+Complexity: 0.2333333333333333
+Predicted complexity: 0.18185338005913057
+MSE: 0.19027503486738173
+
+Word: "yesterday"
+Complexity: 0.2352941176470588
+Predicted complexity: 0.00031311317997745585
+MSE: 0.18915884509542286
+
+Word: "teaching"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.20989511656437768
+MSE: 0.18761431472742704
+
+Word: "teaching"
+Complexity: 0.325
+Predicted complexity: 0.20989511656437768
+MSE: 0.18619671163363277
+
+Word: "Syrian"
+Complexity: 0.25
+Predicted complexity: 0.22792030052887338
+MSE: 0.18469905680698037
+
+Word: "Syrian"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.22792030052887338
+MSE: 0.18326968221510898
+
+Word: "Syrian"
+Complexity: 0.3472222222222222
+Predicted complexity: 0.22792030052887338
+MSE: 0.1819281208365742
+
+Word: "Syrian"
+Complexity: 0.35
+Predicted complexity: 0.22792030052887338
+MSE: 0.18061296597190007
+
+Word: "Syrian"
+Complexity: 0.40625
+Predicted complexity: 0.22792030052887338
+MSE: 0.17945037625113103
+
+Word: "prayer"
+Complexity: 0.25
+Predicted complexity: 0.21493296872267786
+MSE: 0.17806882059556103
+
+Word: "temptation"
+Complexity: 0.25
+Predicted complexity: 0.2193597841098714
+MSE: 0.176706282151209
+
+Word: "terror"
+Complexity: 0.25
+Predicted complexity: 0.20557190476464082
+MSE: 0.1753724468343772
+
+Word: "terror"
+Complexity: 0.3125
+Predicted complexity: 0.20557190476464082
+MSE: 0.17413048600647024
+
+Word: "bleakness"
+Complexity: 0.25
+Predicted complexity: 0.20284080400271598
+MSE: 0.17283795595955775
+
+Word: "bleakness"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.20284080400271598
+MSE: 0.17161856755214944
+
+Word: "bleakness"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.20284080400271598
+MSE: 0.17048310903660374
+
+Word: "stronghold"
+Complexity: 0.25
+Predicted complexity: 0.21128226231286626
+MSE: 0.16924057928789057
+
+Word: "stronghold"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.21128226231286626
+MSE: 0.1680431397079439
+
+Word: "stronghold"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.21128226231286626
+MSE: 0.16693338118786638
+
+Word: "stronghold"
+Complexity: 0.38235294117647056
+Predicted complexity: 0.21128226231286626
+MSE: 0.16594296245390228
+
+Word: "stronghold"
+Complexity: 0.4305555555555556
+Predicted complexity: 0.21128226231286626
+MSE: 0.16510108970158507
+
+Word: "nest"
+Complexity: 0.25
+Predicted complexity: 0.2778515836038305
+MSE: 0.1639356614817812
+
+Word: "nest"
+Complexity: 0.35
+Predicted complexity: 0.2778515836038305
+MSE: 0.1628178426966171
+
+Word: "marble"
+Complexity: 0.25
+Predicted complexity: 0.2111944363558474
+MSE: 0.16168978695586972
+
+Word: "misrepresentation"
+Complexity: 0.25
+Predicted complexity: 0.2170555120958028
+MSE: 0.16057447829147667
+
+Word: "forum"
+Complexity: 0.25
+Predicted complexity: 0.2310515583135946
+MSE: 0.15946954425803436
+
+Word: "forum"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.2310515583135946
+MSE: 0.15840066480965273
+
+Word: "forum"
+Complexity: 0.3214285714285714
+Predicted complexity: 0.2310515583135946
+MSE: 0.1573786739231897
+
+Word: "forum"
+Complexity: 0.3666666666666667
+Predicted complexity: 0.2310515583135946
+MSE: 0.15643957111028714
+
+Word: "fear"
+Complexity: 0.25
+Predicted complexity: 0.22112998027245903
+MSE: 0.15539523491517832
+
+Word: "scratch"
+Complexity: 0.2631578947368421
+Predicted complexity: 0.2326300916318916
+MSE: 0.15436547966082653
+
+Word: "strike"
+Complexity: 0.26388888888888884
+Predicted complexity: 0.27803082465950973
+MSE: 0.1533445161819293
+
+Word: "Bridget"
+Complexity: 0.2647058823529411
+Predicted complexity: 0.2085953377558215
+MSE: 0.15235638379398886
+
+Word: "Rebecca"
+Complexity: 0.2647058823529411
+Predicted complexity: 0.20860544327886837
+MSE: 0.15138116075784713
+
+Word: "Rebecca"
+Complexity: 0.275
+Predicted complexity: 0.20860544327886837
+MSE: 0.15042679112410912
+
+Word: "Rebecca"
+Complexity: 0.30208333333333337
+Predicted complexity: 0.20860544327886837
+MSE: 0.1495126706389796
+
+Word: "Rebecca"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.20860544327886837
+MSE: 0.14862911010924298
+
+Word: "Rebecca"
+Complexity: 0.4464285714285714
+Predicted complexity: 0.20860544327886837
+MSE: 0.14804268163901158
+
+Word: "Syria"
+Complexity: 0.28125
+Predicted complexity: 0.1808977173939402
+MSE: 0.1471694404933485
+
+Word: "Syria"
+Complexity: 0.40625
+Predicted complexity: 0.1808977173939402
+MSE: 0.14656324056116243
+
+Word: "legend"
+Complexity: 0.2666666666666667
+Predicted complexity: 0.18314935482705477
+MSE: 0.1456908149412609
+
+Word: "knit"
+Complexity: 0.2666666666666667
+Predicted complexity: 0.16589895555438156
+MSE: 0.14484897218760592
+
+Word: "weight_unit"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.2324368312313133
+MSE: 0.14396258716469276
+
+Word: "Elizabeth"
+Complexity: 0.359375
+Predicted complexity: 0.1763995310621452
+MSE: 0.14328478001787273
+
+Word: "pasture"
+Complexity: 0.275
+Predicted complexity: 0.22273925903872088
+MSE: 0.14242774590218948
+
+Word: "liar"
+Complexity: 0.2763157894736842
+Predicted complexity: 0.20645200412943585
+MSE: 0.14159412894825277
+
+Word: "Paul"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.23702993740979836
+MSE: 0.14075115459612264
+
+Word: "Paul"
+Complexity: 0.34375
+Predicted complexity: 0.23702993740979836
+MSE: 0.13997653194440488
+
+Word: "Paul"
+Complexity: 0.3529411764705882
+Predicted complexity: 0.23702993740979836
+MSE: 0.13922331101223945
+
+Word: "Paul"
+Complexity: 0.36764705882352944
+Predicted complexity: 0.23702993740979836
+MSE: 0.13850045610924636
+
+Word: "Paul"
+Complexity: 0.46875
+Predicted complexity: 0.23702993740979836
+MSE: 0.13800159570511436
+
+Word: "rebellion"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.22819512043562842
+MSE: 0.13720894567121958
+
+Word: "defender"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.2499722968174253
+MSE: 0.13641625809330293
+
+Word: "Caesar"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.20578788628085748
+MSE: 0.135659057037702
+
+Word: "territory"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.22272757490421619
+MSE: 0.1348978733614708
+
+Word: "sin"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.21544864297700528
+MSE: 0.13415336169188968
+
+Word: "sin"
+Complexity: 0.31818181818181823
+Predicted complexity: 0.21544864297700528
+MSE: 0.13345109318959295
+
+Word: "sin"
+Complexity: 0.4523809523809523
+Predicted complexity: 0.21544864297700528
+MSE: 0.13301428994693698
+
+Word: "porch"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.23140570323640886
+MSE: 0.13228216741222096
+
+Word: "porch"
+Complexity: 0.2857142857142857
+Predicted complexity: 0.23140570323640886
+MSE: 0.13155963810897256
+
+Word: "porch"
+Complexity: 0.3928571428571429
+Predicted complexity: 0.23140570323640886
+MSE: 0.13097356549367606
+
+Word: "filth"
+Complexity: 0.2857142857142857
+Predicted complexity: 0.2017860563406987
+MSE: 0.130288871472638
+
+Word: "filth"
+Complexity: 0.3214285714285714
+Predicted complexity: 0.2017860563406987
+MSE: 0.12965164872507712
+
+Word: "breadth"
+Complexity: 0.2875
+Predicted complexity: 0.21874239349975128
+MSE: 0.12896900369626052
+
+Word: "breadth"
+Complexity: 0.3636363636363637
+Predicted complexity: 0.21874239349975128
+MSE: 0.12838218445107405
+
+Word: "breadth"
+Complexity: 0.3970588235294118
+Predicted complexity: 0.21874239349975128
+MSE: 0.12786010101738457
+
+Word: "contemplation"
+Complexity: 0.4868421052631578
+Predicted complexity: 0.18659342380854094
+MSE: 0.12765735461791067
+
+Word: "massage"
+Complexity: 0.3157894736842105
+Predicted complexity: 0.25223773704808
+MSE: 0.12699629295273182
+
+Word: "sorcerer"
+Complexity: 0.3157894736842105
+Predicted complexity: 0.25061478308988433
+MSE: 0.12634337511944105
+
+Word: "pile"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.2566914597108224
+MSE: 0.12569392353388525
+
+Word: "pile"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.2566914597108224
+MSE: 0.1250673733938636
+
+Word: "debt"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.18635067010815137
+MSE: 0.12450531360000608
+
+Word: "musician"
+Complexity: 0.3214285714285714
+Predicted complexity: 0.22567611568238793
+MSE: 0.1239046011999093
+
+Word: "inhabitant"
+Complexity: 0.325
+Predicted complexity: 0.2874999057450835
+MSE: 0.12326989475363581
+
+Word: "inhabitant"
+Complexity: 0.35
+Predicted complexity: 0.2874999057450835
+MSE: 0.12265461829501849
+
+Word: "turtledove"
+Complexity: 0.328125
+Predicted complexity: 0.13673891508209018
+MSE: 0.12221345939863483
+
+Word: "turtledove"
+Complexity: 0.4833333333333333
+Predicted complexity: 0.13673891508209018
+MSE: 0.12220281772192199
+
+Word: "grave"
+Complexity: 0.32894736842105265
+Predicted complexity: 0.21691029843362555
+MSE: 0.12164621613476181
+
+Word: "Sharon"
+Complexity: 0.33333333333333337
+Predicted complexity: 2.958082053896963
+MSE: 0.15582631527600246
+
+Word: "thunder"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.23150889097286131
+MSE: 0.15509537005884677
+
+Word: "thunder"
+Complexity: 0.38235294117647056
+Predicted complexity: 0.23150889097286131
+MSE: 0.1544336628459617
+
+Word: "thrive"
+Complexity: 0.3375
+Predicted complexity: 0.2787418422780059
+MSE: 0.15368251288702098
+
+Word: "breastplate"
+Complexity: 0.3392857142857143
+Predicted complexity: 0.16612983057011402
+MSE: 0.15307013886315124
+
+Word: "breastplate"
+Complexity: 0.3529411764705882
+Predicted complexity: 0.16612983057011402
+MSE: 0.15248801245967336
+
+Word: "breastplate"
+Complexity: 0.4444444444444444
+Predicted complexity: 0.16612983057011402
+MSE: 0.1521202233020084
+
+Word: "breastplate"
+Complexity: 0.4558823529411765
+Predicted complexity: 0.16612983057011402
+MSE: 0.1517877174528298
+
+Word: "breastplate"
+Complexity: 0.6
+Predicted complexity: 0.16612983057011402
+MSE: 0.15196468641626806
+
+Word: "orange_yellow"
+Complexity: 0.3472222222222222
+Predicted complexity: 0.1826048482782985
+MSE: 0.1513614699592049
+
+Word: "Samaritan"
+Complexity: 0.35
+Predicted complexity: 0.20733398618391294
+MSE: 0.1507316243896807
+
+Word: "Sabbath"
+Complexity: 0.359375
+Predicted complexity: 0.18523637234940404
+MSE: 0.15015551260618956
+
+Word: "supplication"
+Complexity: 0.3636363636363637
+Predicted complexity: 0.1957987772378758
+MSE: 0.14957462661953186
+
+Word: "toll"
+Complexity: 0.3636363636363637
+Predicted complexity: 0.25236507305463785
+MSE: 0.14892442128061334
+
+Word: "bough"
+Complexity: 0.36764705882352944
+Predicted complexity: 0.16353972928628047
+MSE: 0.1484184560951898
+
+Word: "bough"
+Complexity: 0.6666666666666666
+Predicted complexity: 0.16353972928628047
+MSE: 0.14891009111407513
+
+Word: "caldron"
+Complexity: 0.375
+Predicted complexity: 0.18055893037801
+MSE: 0.14839091933109227
+
+Word: "caldron"
+Complexity: 0.390625
+Predicted complexity: 0.18055893037801
+MSE: 0.1479059743742334
+
+Word: "caldron"
+Complexity: 0.4722222222222222
+Predicted complexity: 0.18055893037801
+MSE: 0.1476150553993962
+
+Word: "caldron"
+Complexity: 0.5543478260869565
+Predicted complexity: 0.18055893037801
+MSE: 0.1475786640775341
+
+Word: "Jesus"
+Complexity: 0.375
+Predicted complexity: 0.2592778940996241
+MSE: 0.1469631271129308
+
+Word: "visionary"
+Complexity: 0.3970588235294118
+Predicted complexity: 0.2512802527845312
+MSE: 0.1463891009237778
+
+Word: "Caligula"
+Complexity: 0.4117647058823529
+Predicted complexity: 0.19032269006201197
+MSE: 0.14594658940308142
+
+Word: "Caligula"
+Complexity: 0.5892857142857143
+Predicted complexity: 0.19032269006201197
+MSE: 0.14600643060350968
+
+Word: "singleness"
+Complexity: 0.425
+Predicted complexity: 0.1820617742821757
+MSE: 0.14561459524725479
+
+Word: "hearth"
+Complexity: 0.43333333333333335
+Predicted complexity: 0.22031438508942155
+MSE: 0.1451650996287063
+
+Word: "Dorcas"
+Complexity: 0.4375
+Predicted complexity: 2.958026271845054
+MSE: 0.17287888350117248
+
+Word: "woe"
+Complexity: 0.4375
+Predicted complexity: 0.1859489711161686
+MSE: 0.17239176810842288
+
+Word: "Ephraim"
+Complexity: 0.4464285714285714
+Predicted complexity: 2.9581110582272037
+MSE: 0.19954290592427482
+
+Word: "Ephraim"
+Complexity: 0.4473684210526315
+Predicted complexity: 2.9581110582272037
+MSE: 0.2264340322863984
+
+Word: "Ephraim"
+Complexity: 0.5
+Predicted complexity: 2.9581110582272037
+MSE: 0.25194226010347065
+
+Word: "Ephraim"
+Complexity: 0.5277777777777778
+Predicted complexity: 2.9581110582272037
+MSE: 0.27663473867970034
+
+Word: "Ephraim"
+Complexity: 0.5714285714285714
+Predicted complexity: 2.9581110582272037
+MSE: 0.30019829761062033
+
+Word: "Dor"
+Complexity: 0.4558823529411765
+Predicted complexity: 2.9585480399686985
+MSE: 0.32601274455180784
+
+Word: "bleakness"
+Complexity: 0.4642857142857143
+Predicted complexity: 0.20284080400271598
+MSE: 0.3249021441059505
+
+Word: "Ezra"
+Complexity: 0.4673913043478261
+Predicted complexity: 0.2007579849714173
+MSE: 0.3238128358780351
+
+Word: "Ezra"
+Complexity: 0.515625
+Predicted complexity: 0.2007579849714173
+MSE: 0.3228527008407487
+
+Word: "Selah"
+Complexity: 0.4722222222222222
+Predicted complexity: 2.9543301008142184
+MSE: 0.34769528305405806
+
+Word: "Selah"
+Complexity: 0.5441176470588235
+Predicted complexity: 2.9543301008142184
+MSE: 0.37083693046585275
+
+Word: "Zebedee"
+Complexity: 0.4722222222222222
+Predicted complexity: 2.957630625286521
+MSE: 0.3953365844724214
+
+Word: "tremor"
+Complexity: 0.4736842105263158
+Predicted complexity: 0.27754691704548745
+MSE: 0.39383714436074735
+
+Word: "wormwood"
+Complexity: 0.484375
+Predicted complexity: 0.16265251278789988
+MSE: 0.3926223670152126
+
+Word: "wormwood"
+Complexity: 0.7321428571428571
+Predicted complexity: 0.16265251278789988
+MSE: 0.39233777070395554
+
+Word: "snowflake"
+Complexity: 0.4891304347826087
+Predicted complexity: 0.22433085380937737
+MSE: 0.3910007626017964
+
+Word: "garrison"
+Complexity: 0.5
+Predicted complexity: 0.279284639801131
+MSE: 0.3895863597407465
+
+Word: "Carmelite"
+Complexity: 0.5125
+Predicted complexity: 0.20663057294884063
+MSE: 0.388368128245536
+
+Word: "merchant"
+Complexity: 0.5131578947368421
+Predicted complexity: 0.22667522704004364
+MSE: 0.38711281755145877
+
+Word: "ball"
+Complexity: 0.5625
+Predicted complexity: 0.2321098600318595
+MSE: 0.3859783066414045
+
+Word: "ball"
+Complexity: 0.5735294117647058
+Predicted complexity: 0.2321098600318595
+MSE: 0.38488313998963236
+
+Word: "lout"
+Complexity: 0.625
+Predicted complexity: 0.2499050598819354
+MSE: 0.3838945289536507
+
+Word: "lees"
+Complexity: 0.575
+Predicted complexity: 0.24637287799499283
+MSE: 0.38278203401963323
+
+Word: "slag"
+Complexity: 0.5921052631578947
+Predicted complexity: 0.2306098583717144
+MSE: 0.381769571745183
+
+Word: "slag"
+Complexity: 0.6375
+Predicted complexity: 0.2306098583717144
+MSE: 0.3809047318076194
+
+Word: "slag"
+Complexity: 0.7222222222222222
+Predicted complexity: 0.2306098583717144
+MSE: 0.3803500624230898
+
+Word: "Pentecost"
+Complexity: 0.625
+Predicted complexity: 0.14871881814853496
+MSE: 0.37974091044595776
+
+Word: "vermilion"
+Complexity: 0.6375
+Predicted complexity: 0.0
+MSE: 0.3798463070449856
+
+Word: "role"
+Complexity: 0.0
+Predicted complexity: 0.23723961275509048
+MSE: 0.37857243431591164
+
+Word: "role"
+Complexity: 0.203125
+Predicted complexity: 0.23723961275509048
+MSE: 0.37709240048252934
+
+Word: "role"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.23723961275509048
+MSE: 0.3756232242218282
+
+Word: "role"
+Complexity: 0.2333333333333333
+Predicted complexity: 0.23723961275509048
+MSE: 0.374161714629599
+
+Word: "role"
+Complexity: 0.234375
+Predicted complexity: 0.23723961275509048
+MSE: 0.37271150723183405
+
+Word: "size"
+Complexity: 0.125
+Predicted complexity: 0.27905953483546064
+MSE: 0.3713641050428066
+
+Word: "size"
+Complexity: 0.2
+Predicted complexity: 0.27905953483546064
+MSE: 0.3699598216005204
+
+Word: "size"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.27905953483546064
+MSE: 0.36855842629871227
+
+Word: "size"
+Complexity: 0.21875
+Predicted complexity: 0.27905953483546064
+MSE: 0.3671655973433434
+
+Word: "price"
+Complexity: 0.02777777777777779
+Predicted complexity: 0.21532483597896926
+MSE: 0.365903271494281
+
+Word: "soundbox"
+Complexity: 0.04999999999999999
+Predicted complexity: 0.16779213952842675
+MSE: 0.3645698310270098
+
+Word: "soundbox"
+Complexity: 0.22619047619047614
+Predicted complexity: 0.16779213952842675
+MSE: 0.36320696512020934
+
+Word: "soundbox"
+Complexity: 0.3173076923076923
+Predicted complexity: 0.16779213952842675
+MSE: 0.36192556638112167
+
+Word: "soundbox"
+Complexity: 0.3173076923076923
+Predicted complexity: 0.16779213952842675
+MSE: 0.3606537661344616
+
+Word: "tied"
+Complexity: 0.07500000000000001
+Predicted complexity: 0.0
+MSE: 0.35932903193246735
+
+Word: "tied"
+Complexity: 0.234375
+Predicted complexity: 0.0
+MSE: 0.3581974431171979
+
+Word: "union"
+Complexity: 0.07500000000000001
+Predicted complexity: 0.2313012313133656
+MSE: 0.35696126767939373
+
+Word: "rule"
+Complexity: 0.07500000000000001
+Predicted complexity: 0.2339909710365161
+MSE: 0.3557373446579611
+
+Word: "rule"
+Complexity: 0.1764705882352941
+Predicted complexity: 0.2339909710365161
+MSE: 0.3544416507233274
+
+Word: "rule"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.2339909710365161
+MSE: 0.35315272964469857
+
+Word: "rule"
+Complexity: 0.21875
+Predicted complexity: 0.2339909710365161
+MSE: 0.35186469883284976
+
+Word: "rule"
+Complexity: 0.33
+Predicted complexity: 0.2339909710365161
+MSE: 0.3506187098685213
+
+Word: "dispute"
+Complexity: 0.08333333333333331
+Predicted complexity: 0.21533890753532725
+MSE: 0.3494114879908107
+
+Word: "dispute"
+Complexity: 0.125
+Predicted complexity: 0.21533890753532725
+MSE: 0.34817953719739503
+
+Word: "dispute"
+Complexity: 0.19117647058823528
+Predicted complexity: 0.21533890753532725
+MSE: 0.3469291929030131
+
+Word: "dispute"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.21533890753532725
+MSE: 0.345686039618145
+
+Word: "dispute"
+Complexity: 0.2380952380952381
+Predicted complexity: 0.21533890753532725
+MSE: 0.34445329608586783
+
+Word: "care"
+Complexity: 0.0892857142857143
+Predicted complexity: 0.20278250448177373
+MSE: 0.3432733253573943
+
+Word: "care"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.20278250448177373
+MSE: 0.34205738544569564
+
+Word: "solicitation"
+Complexity: 0.09999999999999998
+Predicted complexity: 0.23553545714691523
+MSE: 0.3409136132714848
+
+Word: "trouble"
+Complexity: 0.265625
+Predicted complexity: 0.2197517632183633
+MSE: 0.3397206229214191
+
+Word: "syndicate"
+Complexity: 0.10294117647058826
+Predicted complexity: 0.23433285382330304
+MSE: 0.3385891953774055
+
+Word: "arrow"
+Complexity: 0.10416666666666667
+Predicted complexity: 0.16977026087938035
+MSE: 0.33742036543403564
+
+Word: "lung"
+Complexity: 0.10714285714285716
+Predicted complexity: 0.18070197298646606
+MSE: 0.33626353817999266
+
+Word: "lung"
+Complexity: 0.1944444444444444
+Predicted complexity: 0.18070197298646606
+MSE: 0.33509661219854053
+
+Word: "lung"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.18070197298646606
+MSE: 0.3339393023000496
+
+Word: "lung"
+Complexity: 0.25
+Predicted complexity: 0.18070197298646606
+MSE: 0.332804346831939
+
+Word: "lung"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.18070197298646606
+MSE: 0.3317407454069541
+
+Word: "top"
+Complexity: 0.1111111111111111
+Predicted complexity: 0.2538477908722309
+MSE: 0.3306744201136057
+
+Word: "ear"
+Complexity: 0.1111111111111111
+Predicted complexity: 0.1766403017380267
+MSE: 0.3295604940204679
+
+Word: "history"
+Complexity: 0.11538461538461535
+Predicted complexity: 0.26666028523663354
+MSE: 0.3285173778104975
+
+Word: "history"
+Complexity: 0.17045454545454547
+Predicted complexity: 0.26666028523663354
+MSE: 0.3274351343072993
+
+Word: "history"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.26666028523663354
+MSE: 0.3263451553482952
+
+Word: "have"
+Complexity: 0.125
+Predicted complexity: 0.3513302681393004
+MSE: 0.32541882617296763
+
+Word: "have"
+Complexity: 0.125
+Predicted complexity: 0.3513302681393004
+MSE: 0.3244987139719711
+
+Word: "have"
+Complexity: 0.15000000000000002
+Predicted complexity: 0.3513302681393004
+MSE: 0.3235489987977138
+
+Word: "have"
+Complexity: 0.2333333333333333
+Predicted complexity: 0.3513302681393004
+MSE: 0.3225169130571335
+
+Word: "have"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.3513302681393004
+MSE: 0.3214465043415364
+
+Word: "disease"
+Complexity: 0.125
+Predicted complexity: 0.17977059153471162
+MSE: 0.3203920451142368
+
+Word: "note"
+Complexity: 0.13333333333333336
+Predicted complexity: 0.21555213812490276
+MSE: 0.319356955631554
+
+Word: "note"
+Complexity: 0.2647058823529411
+Predicted complexity: 0.21555213812490276
+MSE: 0.31831438699648845
+
+Word: "stagecoach"
+Complexity: 0.1388888888888889
+Predicted complexity: 0.1585322443653913
+MSE: 0.3172719983880225
+
+Word: "stagecoach"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.1585322443653913
+MSE: 0.3162548300291255
+
+Word: "stagecoach"
+Complexity: 0.25
+Predicted complexity: 0.1585322443653913
+MSE: 0.31525193595841444
+
+Word: "stagecoach"
+Complexity: 0.25
+Predicted complexity: 0.1585322443653913
+MSE: 0.31425555418686385
+
+Word: "stagecoach"
+Complexity: 0.29166666666666663
+Predicted complexity: 0.1585322443653913
+MSE: 0.3132959076503416
+
+Word: "end"
+Complexity: 0.140625
+Predicted complexity: 0.26816755761624356
+MSE: 0.3123377502192221
+
+Word: "project"
+Complexity: 0.14285714285714285
+Predicted complexity: 0.23373762199442907
+MSE: 0.3113600058824665
+
+Word: "project"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.23373762199442907
+MSE: 0.31036261133274895
+
+Word: "concept"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.23011019820102452
+MSE: 0.30940838904851325
+
+Word: "repair"
+Complexity: 0.15000000000000002
+Predicted complexity: 0.27854477775285386
+MSE: 0.3084756354524592
+
+Word: "repair"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.27854477775285386
+MSE: 0.30753608331369015
+
+Word: "repair"
+Complexity: 0.175
+Predicted complexity: 0.27854477775285386
+MSE: 0.3065967967240895
+
+Word: "repair"
+Complexity: 0.26190476190476186
+Predicted complexity: 0.27854477775285386
+MSE: 0.3056304878704723
+
+Word: "repair"
+Complexity: 0.265625
+Predicted complexity: 0.27854477775285386
+MSE: 0.3046699106150846
+
+Word: "work"
+Complexity: 0.171875
+Predicted complexity: 0.28024037390606354
+MSE: 0.30375164460770754
+
+Word: "work"
+Complexity: 0.25
+Predicted complexity: 0.28024037390606354
+MSE: 0.3028052784689771
+
+Word: "none"
+Complexity: 0.15625
+Predicted complexity: 0.18272356128231884
+MSE: 0.3018641431760737
+
+Word: "none"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.18272356128231884
+MSE: 0.300931522061291
+
+Word: "bones"
+Complexity: 0.15625
+Predicted complexity: 0.18186022041807498
+MSE: 0.30000187612113177
+
+Word: "bones"
+Complexity: 0.2115384615384616
+Predicted complexity: 0.18186022041807498
+MSE: 0.2990786629170419
+
+Word: "bones"
+Complexity: 0.25
+Predicted complexity: 0.18186022041807498
+MSE: 0.29817270712210164
+
+Word: "type"
+Complexity: 0.1607142857142857
+Predicted complexity: 0.25322647379225444
+MSE: 0.2972843199988528
+
+Word: "type"
+Complexity: 0.2375
+Predicted complexity: 0.25322647379225444
+MSE: 0.296375949974324
+
+Word: "vision"
+Complexity: 0.1607142857142857
+Predicted complexity: 0.2260049361125525
+MSE: 0.29548536131290665
+
+Word: "value"
+Complexity: 0.234375
+Predicted complexity: 0.30932040813886835
+MSE: 0.29460430189919296
+
+Word: "value"
+Complexity: 0.3625
+Predicted complexity: 0.30932040813886835
+MSE: 0.2937201314964394
+
+Word: "transfer"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.2787772618793137
+MSE: 0.2928707316597702
+
+Word: "transfer"
+Complexity: 0.21875
+Predicted complexity: 0.2787772618793137
+MSE: 0.29199944413118273
+
+Word: "volume"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.23542704702799386
+MSE: 0.2911367670914718
+
+Word: "plan"
+Complexity: 0.171875
+Predicted complexity: 0.27948150015385426
+MSE: 0.29029976826447745
+
+Word: "plan"
+Complexity: 0.203125
+Predicted complexity: 0.27948150015385426
+MSE: 0.2894506057177648
+
+Word: "plan"
+Complexity: 0.3035714285714286
+Predicted complexity: 0.27948150015385426
+MSE: 0.28859087273839995
+
+Word: "plan"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.27948150015385426
+MSE: 0.2877447633483903
+
+Word: "type"
+Complexity: 0.175
+Predicted complexity: 0.25322647379225444
+MSE: 0.286911552158608
+
+Word: "type"
+Complexity: 0.203125
+Predicted complexity: 0.25322647379225444
+MSE: 0.2860726099919931
+
+Word: "type"
+Complexity: 0.25
+Predicted complexity: 0.25322647379225444
+MSE: 0.28523125058064347
+
+Word: "type"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.25322647379225444
+MSE: 0.28439680606122875
+
+Word: "type"
+Complexity: 0.28125
+Predicted complexity: 0.25322647379225444
+MSE: 0.28356753270438634
+
+Word: "male"
+Complexity: 0.1764705882352941
+Predicted complexity: 0.0
+MSE: 0.28283159782335926
+
+Word: "male"
+Complexity: 0.1875
+Predicted complexity: 0.0
+MSE: 0.2821116113471286
+
+Word: "rowing"
+Complexity: 0.1764705882352941
+Predicted complexity: 0.1967320838631516
+MSE: 0.28129508646845597
+
+Word: "female"
+Complexity: 0.17857142857142855
+Predicted complexity: 0.0
+MSE: 0.2805742560309808
+
+Word: "demeanor"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.26057785905202013
+MSE: 0.2797828798370976
+
+Word: "demeanor"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.26057785905202013
+MSE: 0.2789844468284183
+
+Word: "demeanor"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.26057785905202013
+MSE: 0.27818964660830336
+
+Word: "demeanor"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.26057785905202013
+MSE: 0.2774014694600181
+
+Word: "option"
+Complexity: 0.1875
+Predicted complexity: 0.2019257780044076
+MSE: 0.27661174476945116
+
+Word: "punch"
+Complexity: 0.1875
+Predicted complexity: 0.27756621812846577
+MSE: 0.27584896118671964
+
+Word: "take"
+Complexity: 0.1875
+Predicted complexity: 0.2528561692848475
+MSE: 0.27507961973537937
+
+Word: "roast"
+Complexity: 0.19117647058823528
+Predicted complexity: 0.19169849392781993
+MSE: 0.2743025594324782
+
+Word: "motor"
+Complexity: 0.19117647058823528
+Predicted complexity: 0.2546365113215573
+MSE: 0.2735412203263864
+
+Word: "motor"
+Complexity: 0.25
+Predicted complexity: 0.2546365113215573
+MSE: 0.2727729064974843
+
+Word: "motor"
+Complexity: 0.3125
+Predicted complexity: 0.2546365113215573
+MSE: 0.2720182153961525
+
+Word: "motor"
+Complexity: 0.3854166666666666
+Predicted complexity: 0.2546365113215573
+MSE: 0.2713061629761412
+
+Word: "interaction"
+Complexity: 0.19117647058823528
+Predicted complexity: 0.20877055754637744
+MSE: 0.2705512977642185
+
+Word: "interaction"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.20877055754637744
+MSE: 0.2698001543190605
+
+Word: "interaction"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.20877055754637744
+MSE: 0.26905328670954115
+
+Word: "interaction"
+Complexity: 0.234375
+Predicted complexity: 0.20877055754637744
+MSE: 0.26831185660115386
+
+Word: "interaction"
+Complexity: 0.3970588235294118
+Predicted complexity: 0.20877055754637744
+MSE: 0.2676703706907014
+
+Word: "stag_party"
+Complexity: 0.1923076923076923
+Predicted complexity: 0.19699319143249377
+MSE: 0.2669350728423809
+
+Word: "animal"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.2528580849261951
+MSE: 0.26621246795786363
+
+Word: "series"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.2093261843122655
+MSE: 0.265485565991908
+
+Word: "severity"
+Complexity: 0.2
+Predicted complexity: 0.1826960037213963
+MSE: 0.2647629879600151
+
+Word: "severity"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.1826960037213963
+MSE: 0.26408454089891964
+
+Word: "severity"
+Complexity: 0.3461538461538461
+Predicted complexity: 0.1826960037213963
+MSE: 0.2634412724039434
+
+Word: "steering"
+Complexity: 0.2
+Predicted complexity: 0.214784088765829
+MSE: 0.2627298596927993
+
+Word: "steering"
+Complexity: 0.2954545454545454
+Predicted complexity: 0.214784088765829
+MSE: 0.2620392339863022
+
+Word: "begin"
+Complexity: 0.2307692307692308
+Predicted complexity: 0.35116466605744556
+MSE: 0.2613737926606353
+
+Word: "presidency"
+Complexity: 0.2
+Predicted complexity: 0.19575808378297838
+MSE: 0.2606731068729478
+
+Word: "presidency"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.19575808378297838
+MSE: 0.2600083538727732
+
+Word: "safety_valve"
+Complexity: 0.2
+Predicted complexity: 0.16948126322102602
+MSE: 0.25931748197789806
+
+Word: "therapy"
+Complexity: 0.2
+Predicted complexity: 0.17129568683893395
+MSE: 0.2586299991470899
+
+Word: "therapy"
+Complexity: 0.23214285714285715
+Predicted complexity: 0.17129568683893395
+MSE: 0.25795379856084827
+
+Word: "therapy"
+Complexity: 0.40625
+Predicted complexity: 0.17129568683893395
+MSE: 0.25741742218707087
+
+Word: "overture"
+Complexity: 0.203125
+Predicted complexity: 0.21486379774067596
+MSE: 0.2567385841321509
+
+Word: "sum"
+Complexity: 0.203125
+Predicted complexity: 0.1919943300776608
+MSE: 0.25606328231025816
+
+Word: "sum"
+Complexity: 0.2173913043478261
+Predicted complexity: 0.1919943300776608
+MSE: 0.2553928931343837
+
+Word: "sum"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.1919943300776608
+MSE: 0.2547264656953291
+
+Word: "sum"
+Complexity: 0.2375
+Predicted complexity: 0.1919943300776608
+MSE: 0.2540667902391927
+
+Word: "resource"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.23656441320819266
+MSE: 0.2534051581737596
+
+Word: "sake"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.2162163707497216
+MSE: 0.2527573360949116
+
+Word: "behavioral"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.0
+MSE: 0.2522214838442691
+
+Word: "wall"
+Complexity: 0.3666666666666667
+Predicted complexity: 0.2525074782542383
+MSE: 0.25160342399014696
+
+Word: "successor"
+Complexity: 0.22368421052631576
+Predicted complexity: 0.2505214094488769
+MSE: 0.2509568178335899
+
+Word: "successor"
+Complexity: 0.30952380952380953
+Predicted complexity: 0.2505214094488769
+MSE: 0.25032063393996784
+
+Word: "chromosome"
+Complexity: 0.22368421052631576
+Predicted complexity: 0.22336698249740283
+MSE: 0.24967878641866953
+
+Word: "chromosome"
+Complexity: 0.296875
+Predicted complexity: 0.22336698249740283
+MSE: 0.24905404125810301
+
+Word: "chromosome"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.22336698249740283
+MSE: 0.2484422474760522
+
+Word: "trot"
+Complexity: 0.225
+Predicted complexity: 0.2528214792883052
+MSE: 0.24781204846137977
+
+Word: "restriction"
+Complexity: 0.2333333333333333
+Predicted complexity: 0.19337611026373774
+MSE: 0.24718713610405504
+
+Word: "trial"
+Complexity: 0.234375
+Predicted complexity: 0.22327345101596946
+MSE: 0.24656165789718362
+
+Word: "decrease"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.2749489030383452
+MSE: 0.24594269443793992
+
+Word: "identity"
+Complexity: 0.23863636363636365
+Predicted complexity: 0.18594651815344884
+MSE: 0.24533018442630028
+
+Word: "hypothesis"
+Complexity: 0.25
+Predicted complexity: 0.21126250626089918
+MSE: 0.24471754726297085
+
+Word: "hypothesis"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.21126250626089918
+MSE: 0.24411224752770389
+
+Word: "hypothesis"
+Complexity: 0.3269230769230769
+Predicted complexity: 0.21126250626089918
+MSE: 0.24353541032789938
+
+Word: "shiner"
+Complexity: 0.25
+Predicted complexity: 0.16645873025542218
+MSE: 0.24294549445114785
+
+Word: "spirit"
+Complexity: 0.25
+Predicted complexity: 0.22075539038742722
+MSE: 0.2423432799057256
+
+Word: "turn"
+Complexity: 0.25
+Predicted complexity: 0.19145351403513308
+MSE: 0.24175043725340079
+
+Word: "transcript"
+Complexity: 0.25
+Predicted complexity: 0.1954409390187212
+MSE: 0.24115941312934575
+
+Word: "transcript"
+Complexity: 0.2875
+Predicted complexity: 0.1954409390187212
+MSE: 0.2405848833949739
+
+Word: "transcript"
+Complexity: 0.34
+Predicted complexity: 0.1954409390187212
+MSE: 0.24004378102728133
+
+Word: "transcript"
+Complexity: 0.35
+Predicted complexity: 0.1954409390187212
+MSE: 0.23951268697888856
+
+Word: "transcript"
+Complexity: 0.3571428571428571
+Predicted complexity: 0.1954409390187212
+MSE: 0.23898973311454083
+
+Word: "venereal_disease"
+Complexity: 0.25
+Predicted complexity: 0.14555181159488956
+MSE: 0.23843207954717305
+
+Word: "forum"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.2310515583135946
+MSE: 0.23787605389340233
+
+Word: "donor"
+Complexity: 0.25
+Predicted complexity: 0.22601199668603064
+MSE: 0.23729868009877847
+
+Word: "alertness"
+Complexity: 0.26136363636363635
+Predicted complexity: 0.2031120359259841
+MSE: 0.23673094846978518
+
+Word: "success"
+Complexity: 0.26136363636363635
+Predicted complexity: 0.18572801914769493
+MSE: 0.23617160173400273
+
+Word: "disturbance"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.24133667439604672
+MSE: 0.23560283780529112
+
+Word: "disturbance"
+Complexity: 0.27083333333333337
+Predicted complexity: 0.24133667439604672
+MSE: 0.23503721663681684
+
+Word: "disturbance"
+Complexity: 0.296875
+Predicted complexity: 0.24133667439604672
+MSE: 0.23447963800454297
+
+Word: "disturbance"
+Complexity: 0.3125
+Predicted complexity: 0.24133667439604672
+MSE: 0.23392948112422274
+
+Word: "manuscript"
+Complexity: 0.2717391304347826
+Predicted complexity: 0.23533811939746696
+MSE: 0.23337301115408
+
+Word: "manuscript"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.23533811939746696
+MSE: 0.2328230294075968
+
+Word: "manuscript"
+Complexity: 0.30952380952380953
+Predicted complexity: 0.23533811939746696
+MSE: 0.23228179247238712
+
+Word: "line"
+Complexity: 0.27380952380952384
+Predicted complexity: 0.18596299387077625
+MSE: 0.23174838444471466
+
+Word: "line"
+Complexity: 0.2941176470588235
+Predicted complexity: 0.18596299387077625
+MSE: 0.23122693668301209
+
+Word: "line"
+Complexity: 0.328125
+Predicted complexity: 0.18596299387077625
+MSE: 0.23072807876174417
+
+Word: "line"
+Complexity: 0.3295454545454546
+Predicted complexity: 0.18596299387077625
+MSE: 0.23023253122460183
+
+Word: "range"
+Complexity: 0.275
+Predicted complexity: 0.255877602613075
+MSE: 0.22969166801250115
+
+Word: "count"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.3100342165670812
+MSE: 0.22915492812947502
+
+Word: "turnover"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.19167300566972667
+MSE: 0.2286362938477601
+
+Word: "escargot"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.20631732415971044
+MSE: 0.22811595546416494
+
+Word: "pitchfork"
+Complexity: 0.2857142857142857
+Predicted complexity: 0.2787836587131671
+MSE: 0.22758432860665087
+
+Word: "reaction"
+Complexity: 0.296875
+Predicted complexity: 0.20635627036440582
+MSE: 0.22707411770387922
+
+Word: "reaction"
+Complexity: 0.4833333333333333
+Predicted complexity: 0.20635627036440582
+MSE: 0.22672525964287463
+
+Word: "secretion"
+Complexity: 0.296875
+Predicted complexity: 0.2174103561291098
+MSE: 0.2262150498511678
+
+Word: "secretion"
+Complexity: 0.35
+Predicted complexity: 0.2174103561291098
+MSE: 0.22573321373987598
+
+Word: "secretion"
+Complexity: 0.4411764705882353
+Predicted complexity: 0.2174103561291098
+MSE: 0.2253284627266047
+
+Word: "secretion"
+Complexity: 0.45
+Predicted complexity: 0.2174103561291098
+MSE: 0.22493482934662626
+
+Word: "secretion"
+Complexity: 0.453125
+Predicted complexity: 0.2174103561291098
+MSE: 0.22454635816311377
+
+Word: "sperm"
+Complexity: 0.2976190476190477
+Predicted complexity: 0.19592476527660727
+MSE: 0.22405618738256008
+
+Word: "sperm"
+Complexity: 0.40909090909090906
+Predicted complexity: 0.19592476527660727
+MSE: 0.2236483874224827
+
+Word: "retina"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.1808807891290455
+MSE: 0.22317125985750783
+
+Word: "retina"
+Complexity: 0.3035714285714286
+Predicted complexity: 0.1808807891290455
+MSE: 0.22269826379648344
+
+Word: "retina"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.1808807891290455
+MSE: 0.222249425194315
+
+Word: "retina"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.1808807891290455
+MSE: 0.22182008932048572
+
+Word: "retina"
+Complexity: 0.4558823529411765
+Predicted complexity: 0.1808807891290455
+MSE: 0.22149007977371063
+
+Word: "staining"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.1595539912959289
+MSE: 0.22103565410160972
+
+Word: "staining"
+Complexity: 0.325
+Predicted complexity: 0.1595539912959289
+MSE: 0.22060045573687825
+
+Word: "staining"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.1595539912959289
+MSE: 0.22017742110064772
+
+Word: "staining"
+Complexity: 0.375
+Predicted complexity: 0.1595539912959289
+MSE: 0.21978869528759598
+
+Word: "staining"
+Complexity: 0.4
+Predicted complexity: 0.1595539912959289
+MSE: 0.21942714526039536
+
+Word: "neutrality"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.22825078500095775
+MSE: 0.21894990874501138
+
+Word: "version"
+Complexity: 0.3035714285714286
+Predicted complexity: 0.169709726266256
+MSE: 0.21850317329300922
+
+Word: "version"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.169709726266256
+MSE: 0.21809991678930085
+
+Word: "standard"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.2540312380129236
+MSE: 0.21762326820193126
+
+Word: "tremor"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.1905153318518636
+MSE: 0.21717376171497305
+
+Word: "dopamine"
+Complexity: 0.3125
+Predicted complexity: 0.13662836936325332
+MSE: 0.21676353499415332
+
+Word: "dopamine"
+Complexity: 0.3875
+Predicted complexity: 0.13662836936325332
+MSE: 0.21642545376352518
+
+Word: "dopamine"
+Complexity: 0.45
+Predicted complexity: 0.13662836936325332
+MSE: 0.21616619131862258
+
+Word: "abbreviation"
+Complexity: 0.3125
+Predicted complexity: 0.19583607965176952
+MSE: 0.21572296216980946
+
+Word: "pedigree"
+Complexity: 0.3125
+Predicted complexity: 0.19699139584105027
+MSE: 0.2152810828585975
+
+Word: "target"
+Complexity: 0.3157894736842105
+Predicted complexity: 0.21282025699798562
+MSE: 0.2148351603678053
+
+Word: "target"
+Complexity: 0.3409090909090909
+Predicted complexity: 0.21282025699798562
+MSE: 0.21440379425694642
+
+Word: "solution"
+Complexity: 0.32352941176470584
+Predicted complexity: 0.24199954219191527
+MSE: 0.21395312901914948
+
+Word: "resemblance"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.19769568678254948
+MSE: 0.21352066357550323
+
+Word: "neurosurgery"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.18198902791110164
+MSE: 0.21309867092497467
+
+Word: "Sharon"
+Complexity: 0.5
+Predicted complexity: 2.958082053896963
+MSE: 0.22566131901283099
+
+Word: "compartment"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.19378098689268386
+MSE: 0.22521790726742077
+
+Word: "stripe"
+Complexity: 0.3369565217391305
+Predicted complexity: 0.19249530290965258
+MSE: 0.22477939039291067
+
+Word: "distribution"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.20951754674149262
+MSE: 0.22433354214472367
+
+Word: "distribution"
+Complexity: 0.4285714285714286
+Predicted complexity: 0.20951754674149262
+MSE: 0.22395672817250153
+
+Word: "silver_medal"
+Complexity: 0.34375
+Predicted complexity: 0.1964912634935123
+MSE: 0.2235254454588661
+
+Word: "silver_medal"
+Complexity: 0.35
+Predicted complexity: 0.1964912634935123
+MSE: 0.22309999755828092
+
+Word: "western"
+Complexity: 0.34523809523809523
+Predicted complexity: 0.16713515221505026
+MSE: 0.2226936719972516
+
+Word: "mammal"
+Complexity: 0.359375
+Predicted complexity: 0.19174408612405655
+MSE: 0.2222813975296449
+
+Word: "elimination"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.20672171251412813
+MSE: 0.22186185141731826
+
+Word: "elimination"
+Complexity: 0.3833333333333333
+Predicted complexity: 0.20672171251412813
+MSE: 0.22145959363924034
+
+Word: "Axel"
+Complexity: 0.3666666666666667
+Predicted complexity: 2.9581983107587004
+MSE: 0.23513238662595848
+
+Word: "disorderliness"
+Complexity: 0.36764705882352944
+Predicted complexity: 0.2448461088440422
+MSE: 0.23467009185009693
+
+Word: "skill"
+Complexity: 0.375
+Predicted complexity: 0.24041285213288663
+MSE: 0.23421609522225817
+
+Word: "inbreeding"
+Complexity: 0.375
+Predicted complexity: 0.19168460985983915
+MSE: 0.23379640575999872
+
+Word: "spindle"
+Complexity: 0.38235294117647056
+Predicted complexity: 0.1946068023568832
+MSE: 0.23338190097269532
+
+Word: "spindle"
+Complexity: 0.390625
+Predicted complexity: 0.1946068023568832
+MSE: 0.232975736874434
+
+Word: "spindle"
+Complexity: 0.5147058823529411
+Predicted complexity: 0.1946068023568832
+MSE: 0.23270440149842542
+
+Word: "space_capsule"
+Complexity: 0.4
+Predicted complexity: 0.18047882161318288
+MSE: 0.23232159059855387
+
+Word: "plaque"
+Complexity: 0.4
+Predicted complexity: 0.1783203591058959
+MSE: 0.23194233650453394
+
+Word: "plaque"
+Complexity: 0.43333333333333335
+Predicted complexity: 0.1783203591058959
+MSE: 0.23159747964610375
+
+Word: "plaque"
+Complexity: 0.4852941176470589
+Predicted complexity: 0.1783203591058959
+MSE: 0.23131425368483938
+
+Word: "plaque"
+Complexity: 0.5
+Predicted complexity: 0.1783203591058959
+MSE: 0.2310512156965285
+
+Word: "plaque"
+Complexity: 0.5
+Predicted complexity: 0.1783203591058959
+MSE: 0.23078925794636268
+
+Word: "retentiveness"
+Complexity: 0.40625
+Predicted complexity: 0.1970369583185976
+MSE: 0.23040602196042664
+
+Word: "linage"
+Complexity: 0.40625
+Predicted complexity: 0.1676246168431535
+MSE: 0.23005128995945798
+
+Word: "linage"
+Complexity: 0.45
+Predicted complexity: 0.1676246168431535
+MSE: 0.22974452376977128
+
+Word: "phosphorus"
+Complexity: 0.4117647058823529
+Predicted complexity: 0.24072013150170327
+MSE: 0.229336197339334
+
+Word: "phosphorus"
+Complexity: 0.4666666666666667
+Predicted complexity: 0.24072013150170327
+MSE: 0.2289738307527765
+
+Word: "phosphorus"
+Complexity: 0.515625
+Predicted complexity: 0.24072013150170327
+MSE: 0.2286626722456189
+
+Word: "phosphorus"
+Complexity: 0.5333333333333333
+Predicted complexity: 0.24072013150170327
+MSE: 0.22837311721250259
+
+Word: "phosphorus"
+Complexity: 0.75
+Predicted complexity: 0.24072013150170327
+MSE: 0.22843572906552306
+
+Word: "antagonist"
+Complexity: 0.42647058823529416
+Predicted complexity: 0.23380422881627583
+MSE: 0.2280500125271889
+
+Word: "antagonist"
+Complexity: 0.4666666666666667
+Predicted complexity: 0.23380422881627583
+MSE: 0.22770026383993425
+
+Word: "antagonist"
+Complexity: 0.5147058823529411
+Predicted complexity: 0.23380422881627583
+MSE: 0.2274014796534276
+
+Word: "antagonist"
+Complexity: 0.5384615384615384
+Predicted complexity: 0.23380422881627583
+MSE: 0.2271317694263071
+
+Word: "antagonist"
+Complexity: 0.5441176470588235
+Predicted complexity: 0.23380422881627583
+MSE: 0.22687009472253722
+
+Word: "goiter"
+Complexity: 0.43181818181818177
+Predicted complexity: 0.16660697168608282
+MSE: 0.22655765338772127
+
+Word: "goiter"
+Complexity: 0.4666666666666667
+Predicted complexity: 0.16660697168608282
+MSE: 0.22628569754541872
+
+Word: "synapsis"
+Complexity: 0.45
+Predicted complexity: 0.2488244527154463
+MSE: 0.225916285822317
+
+Word: "synapsis"
+Complexity: 0.5131578947368421
+Predicted complexity: 0.2488244527154463
+MSE: 0.22560667447856414
+
+Word: "cataract"
+Complexity: 0.4642857142857143
+Predicted complexity: 0.2243129630274219
+MSE: 0.22527396209612435
+
+Word: "vector"
+Complexity: 0.4666666666666667
+Predicted complexity: 0.22212423452586463
+MSE: 0.22494694043411093
+
+Word: "vitamin_E"
+Complexity: 0.5952380952380952
+Predicted complexity: 0.2080291693180122
+MSE: 0.22479897951079353
+
+Word: "vitamin_E"
+Complexity: 0.6111111111111112
+Predicted complexity: 0.2080291693180122
+MSE: 0.22467629461372443
+
+Word: "vitamin_E"
+Complexity: 0.6944444444444444
+Predicted complexity: 0.2080291693180122
+MSE: 0.22469972000716762
+
+Word: "matrix"
+Complexity: 0.475
+Predicted complexity: 0.19407301082404693
+MSE: 0.22441387736646232
+
+Word: "matrix"
+Complexity: 0.5333333333333333
+Predicted complexity: 0.19407301082404693
+MSE: 0.2241999511219665
+
+Word: "perturbation"
+Complexity: 0.484375
+Predicted complexity: 0.19666545610425393
+MSE: 0.22392373399408905
+
+Word: "perturbation"
+Complexity: 0.5178571428571429
+Predicted complexity: 0.19666545610425393
+MSE: 0.22368833509671104
+
+Word: "perturbation"
+Complexity: 0.6153846153846154
+Predicted complexity: 0.19666545610425393
+MSE: 0.22359424443377668
+
+Word: "chromosome"
+Complexity: 0.5
+Predicted complexity: 0.22336698249740283
+MSE: 0.22330867468996854
+
+Word: "histology"
+Complexity: 0.5
+Predicted complexity: 0.12978018301772345
+MSE: 0.2231415313531399
+
+Word: "histology"
+Complexity: 0.515625
+Predicted complexity: 0.12978018301772345
+MSE: 0.22299788472149376
+
+Word: "allele"
+Complexity: 0.515625
+Predicted complexity: 0.18730766221650288
+MSE: 0.22277548006814965
+
+Word: "allele"
+Complexity: 0.53125
+Predicted complexity: 0.18730766221650288
+MSE: 0.22257417149715122
+
+Word: "allele"
+Complexity: 0.546875
+Predicted complexity: 0.18730766221650288
+MSE: 0.222394776302735
+
+Word: "allele"
+Complexity: 0.578125
+Predicted complexity: 0.18730766221650288
+MSE: 0.22226107844325219
+
+Word: "allele"
+Complexity: 0.703125
+Predicted complexity: 0.18730766221650288
+MSE: 0.2223449988407901
+
+Word: "Tg"
+Complexity: 0.525
+Predicted complexity: -0.3423571527569946
+MSE: 0.22335831324155095
+
+Word: "pH"
+Complexity: 0.5277777777777778
+Predicted complexity: 0.21428507031151034
+MSE: 0.22311960973848413
+
+Word: "mercury"
+Complexity: 0.5277777777777778
+Predicted complexity: 0.22451453326337908
+MSE: 0.22286979828274112
+
+Word: "mercury"
+Complexity: 0.53125
+Predicted complexity: 0.22451453326337908
+MSE: 0.22262496339352322
+
+Word: "mercury"
+Complexity: 0.5454545454545454
+Predicted complexity: 0.22451453326337908
+MSE: 0.22239797578068024
+
+Word: "mercury"
+Complexity: 0.5666666666666667
+Predicted complexity: 0.22451453326337908
+MSE: 0.2221984873462328
+
+Word: "mercury"
+Complexity: 0.75
+Predicted complexity: 0.22451453326337908
+MSE: 0.22230044668159227
+
+Word: "neuropathy"
+Complexity: 0.5535714285714286
+Predicted complexity: 0.17726126981042903
+MSE: 0.22214819930216798
+
+Word: "vesicle"
+Complexity: 0.5588235294117647
+Predicted complexity: 0.18285387004431772
+MSE: 0.22199604296593956
+
+Word: "vesicle"
+Complexity: 0.575
+Predicted complexity: 0.18285387004431772
+MSE: 0.22186781466570135
+
+Word: "vesicle"
+Complexity: 0.5833333333333334
+Predicted complexity: 0.18285387004431772
+MSE: 0.22175246004253166
+
+Word: "Adams"
+Complexity: 0.5882352941176471
+Predicted complexity: 0.1839220091346083
+MSE: 0.22164331542150403
+
+Word: "Adams"
+Complexity: 0.625
+Predicted complexity: 0.1839220091346083
+MSE: 0.22159267332543736
+
+Word: "maximum"
+Complexity: 0.609375
+Predicted complexity: 0.1986168975316654
+MSE: 0.22149403441763504
+
+Word: "phagocyte"
+Complexity: 0.6428571428571429
+Predicted complexity: 0.212547938529402
+MSE: 0.22142638446774962
+
+Word: "quinine"
+Complexity: 0.675
+Predicted complexity: 0.1851865834737973
+MSE: 0.22146075398176696
+
+Word: "RT"
+Complexity: 0.6764705882352942
+Predicted complexity: -0.46290973069735475
+MSE: 0.2234583917502072
+
+Word: "thrombus"
+Complexity: 0.725
+Predicted complexity: 0.1980430415226063
+MSE: 0.22355880886935078
+
+Word: "gamete"
+Complexity: 0.75
+Predicted complexity: 0.21189409799411774
+MSE: 0.22368080360669684
+
+Word: "Virginia"
+Complexity: 0.7777777777777777
+Predicted complexity: 0.17919003960202293
+MSE: 0.22392919194006894
+
+Word: "hired_hand"
+Complexity: 0.15625
+Predicted complexity: 0.19087761670696984
+MSE: 0.22351900755682536
+
+Word: "role"
+Complexity: 0.04999999999999999
+Predicted complexity: 0.23723961275509048
+MSE: 0.22317257311753833
+
+Word: "size"
+Complexity: 0.0
+Predicted complexity: 0.27905953483546064
+MSE: 0.22290597064206136
+
+Word: "remark"
+Complexity: 0.04999999999999999
+Predicted complexity: 0.24112554422893265
+MSE: 0.22256462083073303
+
+Word: "remark"
+Complexity: 0.04999999999999999
+Predicted complexity: 0.24112554422893265
+MSE: 0.22222451909915364
+
+Word: "remark"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.24112554422893265
+MSE: 0.22182911691913298
+
+Word: "remark"
+Complexity: 0.17857142857142855
+Predicted complexity: 0.24112554422893265
+MSE: 0.2214321841330976
+
+Word: "remark"
+Complexity: 0.234375
+Predicted complexity: 0.24112554422893265
+MSE: 0.22102966301621446
+
+Word: "pay_up"
+Complexity: 0.06666666666666665
+Predicted complexity: 0.23137128626072798
+MSE: 0.2206777536672116
+
+Word: "tied"
+Complexity: 0.171875
+Predicted complexity: 0.0
+MSE: 0.22033149146061337
+
+Word: "tied"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.0
+MSE: 0.22000350376109837
+
+Word: "tied"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.0
+MSE: 0.21976884039690867
+
+Word: "group"
+Complexity: 0.07500000000000001
+Predicted complexity: 0.25679193072062184
+MSE: 0.21943240700173428
+
+Word: "group"
+Complexity: 0.1527777777777778
+Predicted complexity: 0.25679193072062184
+MSE: 0.2190572029316096
+
+Word: "group"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.25679193072062184
+MSE: 0.2186702620888262
+
+Word: "group"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.25679193072062184
+MSE: 0.218280728836987
+
+Word: "group"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.25679193072062184
+MSE: 0.217891009637457
+
+Word: "group"
+Complexity: 0.2976190476190477
+Predicted complexity: 0.25679193072062184
+MSE: 0.21750489507287982
+
+Word: "gravy_boat"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.19509327997916068
+MSE: 0.21711834444484707
+
+Word: "sector"
+Complexity: 0.09999999999999998
+Predicted complexity: 0.20339735200756293
+MSE: 0.21675103602484233
+
+Word: "sector"
+Complexity: 0.275
+Predicted complexity: 0.20339735200756293
+MSE: 0.2163751495295931
+
+Word: "way"
+Complexity: 0.09999999999999998
+Predicted complexity: 0.0
+MSE: 0.21600923614390233
+
+Word: "trouble"
+Complexity: 0.09999999999999998
+Predicted complexity: 0.2197517632183633
+MSE: 0.215652300300805
+
+Word: "trouble"
+Complexity: 0.15000000000000002
+Predicted complexity: 0.2197517632183633
+MSE: 0.21527988512089558
+
+Word: "trouble"
+Complexity: 0.1607142857142857
+Predicted complexity: 0.2197517632183633
+MSE: 0.214906349915656
+
+Word: "trouble"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.2197517632183633
+MSE: 0.21452887573271734
+
+Word: "trouble"
+Complexity: 0.265625
+Predicted complexity: 0.2197517632183633
+MSE: 0.21415554616878082
+
+Word: "syndicate"
+Complexity: 0.1875
+Predicted complexity: 0.23433285382330304
+MSE: 0.21378368260742722
+
+Word: "syndicate"
+Complexity: 0.21875
+Predicted complexity: 0.23433285382330304
+MSE: 0.21340970562446024
+
+Word: "syndicate"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.23433285382330304
+MSE: 0.21303991149123114
+
+Word: "history"
+Complexity: 0.11666666666666665
+Predicted complexity: 0.26666028523663354
+MSE: 0.2127073777636927
+
+Word: "citizen"
+Complexity: 0.11764705882352945
+Predicted complexity: 0.2500094309419279
+MSE: 0.21236732971454483
+
+Word: "citizen"
+Complexity: 0.17105263157894735
+Predicted complexity: 0.2500094309419279
+MSE: 0.2120088372735902
+
+Word: "citizen"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.2500094309419279
+MSE: 0.2116441469293876
+
+Word: "citizen"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.2500094309419279
+MSE: 0.21127868415995787
+
+Word: "feat"
+Complexity: 0.125
+Predicted complexity: 0.21524381621218394
+MSE: 0.21092723997692084
+
+Word: "tune"
+Complexity: 0.13235294117647056
+Predicted complexity: 0.2373409998340744
+MSE: 0.21058198134563202
+
+Word: "note"
+Complexity: 0.25
+Predicted complexity: 0.21555213812490276
+MSE: 0.2102209549212219
+
+Word: "end"
+Complexity: 0.171875
+Predicted complexity: 0.26816755761624356
+MSE: 0.20987508797067295
+
+Word: "end"
+Complexity: 0.1944444444444444
+Predicted complexity: 0.26816755761624356
+MSE: 0.20952381650923835
+
+Word: "offspring"
+Complexity: 0.140625
+Predicted complexity: 0.2521252484750695
+MSE: 0.20918575216773025
+
+Word: "offspring"
+Complexity: 0.203125
+Predicted complexity: 0.2521252484750695
+MSE: 0.20883166872968723
+
+Word: "offspring"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.2521252484750695
+MSE: 0.20847639166040638
+
+Word: "offspring"
+Complexity: 0.26190476190476186
+Predicted complexity: 0.2521252484750695
+MSE: 0.2081207931061786
+
+Word: "offspring"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.2521252484750695
+MSE: 0.20777110657229195
+
+Word: "concept"
+Complexity: 0.14285714285714285
+Predicted complexity: 0.23011019820102452
+MSE: 0.2074307017918405
+
+Word: "terminology"
+Complexity: 0.14705882352941174
+Predicted complexity: 0.21204147824568878
+MSE: 0.20708569677252323
+
+Word: "article"
+Complexity: 0.14705882352941174
+Predicted complexity: 0.23423237384495674
+MSE: 0.20674758411337424
+
+Word: "budget"
+Complexity: 0.15000000000000002
+Predicted complexity: 0.253977982608828
+MSE: 0.20641605084223047
+
+Word: "budget"
+Complexity: 0.25
+Predicted complexity: 0.253977982608828
+MSE: 0.2060674018109862
+
+Word: "budget"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.253977982608828
+MSE: 0.20572085717091726
+
+Word: "budget"
+Complexity: 0.3125
+Predicted complexity: 0.253977982608828
+MSE: 0.20538029146274994
+
+Word: "budget"
+Complexity: 0.34523809523809523
+Predicted complexity: 0.253977982608828
+MSE: 0.20504911182694213
+
+Word: "election"
+Complexity: 0.15000000000000002
+Predicted complexity: 0.22932817693540633
+MSE: 0.2047156283501451
+
+Word: "election"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.22932817693540633
+MSE: 0.20437298963237646
+
+Word: "debate"
+Complexity: 0.15000000000000002
+Predicted complexity: 0.19766728625334226
+MSE: 0.20403502839583196
+
+Word: "debate"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.19766728625334226
+MSE: 0.20369474531371257
+
+Word: "debate"
+Complexity: 0.3125
+Predicted complexity: 0.19766728625334226
+MSE: 0.20337723165843374
+
+Word: "debate"
+Complexity: 0.3571428571428571
+Predicted complexity: 0.19766728625334226
+MSE: 0.20308115050377834
+
+Word: "work"
+Complexity: 0.1527777777777778
+Predicted complexity: 0.28024037390606354
+MSE: 0.2027707942959843
+
+Word: "work"
+Complexity: 0.15789473684210525
+Predicted complexity: 0.28024037390606354
+MSE: 0.20245934763033355
+
+Word: "work"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.28024037390606354
+MSE: 0.20213969800596637
+
+Word: "terminology"
+Complexity: 0.32894736842105265
+Predicted complexity: 0.21204147824568878
+MSE: 0.2018281728640684
+
+Word: "workplace"
+Complexity: 0.1607142857142857
+Predicted complexity: 0.2181450514972004
+MSE: 0.2015005658013528
+
+Word: "workplace"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.2181450514972004
+MSE: 0.2011744628297586
+
+Word: "comparison"
+Complexity: 0.1607142857142857
+Predicted complexity: 0.1978008309615049
+MSE: 0.20084584596957536
+
+Word: "vision"
+Complexity: 0.25
+Predicted complexity: 0.2260049361125525
+MSE: 0.20051699525877306
+
+Word: "vision"
+Complexity: 0.3214285714285714
+Predicted complexity: 0.2260049361125525
+MSE: 0.20020320620126184
+
+Word: "homelessness"
+Complexity: 0.16176470588235292
+Predicted complexity: 0.24367674403288542
+MSE: 0.19988652269192092
+
+Word: "value"
+Complexity: 0.16176470588235292
+Predicted complexity: 0.30932040813886835
+MSE: 0.19959548700985638
+
+Word: "people"
+Complexity: 0.17857142857142855
+Predicted complexity: 0.1820819452521012
+MSE: 0.1992699027304396
+
+Word: "people"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.1820819452521012
+MSE: 0.1989641422790814
+
+Word: "offspring"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.2521252484750695
+MSE: 0.19865249842042387
+
+Word: "offspring"
+Complexity: 0.2023809523809524
+Predicted complexity: 0.2521252484750695
+MSE: 0.19833402763564056
+
+Word: "offspring"
+Complexity: 0.2380952380952381
+Predicted complexity: 0.2521252484750695
+MSE: 0.19801289767381822
+
+Word: "offspring"
+Complexity: 0.25
+Predicted complexity: 0.2521252484750695
+MSE: 0.19769249576282674
+
+Word: "offspring"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.2521252484750695
+MSE: 0.1973753752618398
+
+Word: "transfer"
+Complexity: 0.2875
+Predicted complexity: 0.2787772618793137
+MSE: 0.19705715060199863
+
+Word: "sphere"
+Complexity: 0.16666666666666669
+Predicted complexity: 0.2208440628750023
+MSE: 0.1967445548526555
+
+Word: "sphere"
+Complexity: 0.17105263157894735
+Predicted complexity: 0.2208440628750023
+MSE: 0.19643223110953306
+
+Word: "sphere"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.2208440628750023
+MSE: 0.1961284490965036
+
+Word: "sidereal_day"
+Complexity: 0.171875
+Predicted complexity: 0.25338235348668187
+MSE: 0.1958247872368496
+
+Word: "sidereal_day"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.25338235348668187
+MSE: 0.1955130211033193
+
+Word: "tug"
+Complexity: 0.175
+Predicted complexity: 0.2546455319277852
+MSE: 0.1952108332273652
+
+Word: "Netherlands"
+Complexity: 0.1764705882352941
+Predicted complexity: 0.18171899573168565
+MSE: 0.19489953611820077
+
+Word: "Netherlands"
+Complexity: 0.2
+Predicted complexity: 0.18171899573168565
+MSE: 0.19458971869622443
+
+Word: "Netherlands"
+Complexity: 0.2083333333333333
+Predicted complexity: 0.18171899573168565
+MSE: 0.19428148118313976
+
+Word: "report"
+Complexity: 0.17857142857142855
+Predicted complexity: 0.21399328713337343
+MSE: 0.19397508947977604
+
+Word: "report"
+Complexity: 0.19642857142857145
+Predicted complexity: 0.21399328713337343
+MSE: 0.19366816940015324
+
+Word: "report"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.21399328713337343
+MSE: 0.1933617437317323
+
+Word: "citizen"
+Complexity: 0.1805555555555556
+Predicted complexity: 0.2500094309419279
+MSE: 0.19306389554385622
+
+Word: "citizen"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.2500094309419279
+MSE: 0.19276639050670868
+
+Word: "citizen"
+Complexity: 0.25
+Predicted complexity: 0.2500094309419279
+MSE: 0.19246282138794055
+
+Word: "Europe"
+Complexity: 0.1805555555555556
+Predicted complexity: 0.2112945198789394
+MSE: 0.19216169255545587
+
+Word: "Europe"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.2112945198789394
+MSE: 0.19186021331232092
+
+Word: "Europe"
+Complexity: 0.25
+Predicted complexity: 0.2112945198789394
+MSE: 0.19156184011620664
+
+Word: "Europe"
+Complexity: 0.25
+Predicted complexity: 0.2112945198789394
+MSE: 0.19126440079551055
+
+Word: "Europe"
+Complexity: 0.2631578947368421
+Predicted complexity: 0.2112945198789394
+MSE: 0.1909697529968483
+
+Word: "trophy"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.21295730962879275
+MSE: 0.19067319734470276
+
+Word: "trophy"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.21295730962879275
+MSE: 0.1903770336393731
+
+Word: "trophy"
+Complexity: 0.2375
+Predicted complexity: 0.21295730962879275
+MSE: 0.19008189415260995
+
+Word: "home_plate"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.16843915941386828
+MSE: 0.1897870803983617
+
+Word: "budget"
+Complexity: 0.18333333333333332
+Predicted complexity: 0.253977982608828
+MSE: 0.1895005743302577
+
+Word: "budget"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.253977982608828
+MSE: 0.18921081057679462
+
+Word: "budget"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.253977982608828
+MSE: 0.18892051895967027
+
+Word: "budget"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.253977982608828
+MSE: 0.1886399306503848
+
+Word: "scam"
+Complexity: 0.1842105263157895
+Predicted complexity: 0.15889367083493733
+MSE: 0.18835025578524003
+
+Word: "statement"
+Complexity: 0.1842105263157895
+Predicted complexity: 0.1997090036405182
+MSE: 0.18806085570372336
+
+Word: "consistency"
+Complexity: 0.1875
+Predicted complexity: 0.23632232815308563
+MSE: 0.18777563721527876
+
+Word: "consumer"
+Complexity: 0.1875
+Predicted complexity: 0.2504570668214512
+MSE: 0.18749371690093442
+
+Word: "consumer"
+Complexity: 0.25
+Predicted complexity: 0.2504570668214512
+MSE: 0.1872065905487279
+
+Word: "consumer"
+Complexity: 0.2763157894736842
+Predicted complexity: 0.2504570668214512
+MSE: 0.1869213643759274
+
+Word: "fishery"
+Complexity: 0.1875
+Predicted complexity: 0.20142569629284643
+MSE: 0.1866362843158378
+
+Word: "fishery"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.20142569629284643
+MSE: 0.18636936055096404
+
+Word: "fishery"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.20142569629284643
+MSE: 0.18610590715781597
+
+Word: "fishery"
+Complexity: 0.3571428571428571
+Predicted complexity: 0.20142569629284643
+MSE: 0.18585992224448067
+
+Word: "fishery"
+Complexity: 0.3888888888888888
+Predicted complexity: 0.20142569629284643
+MSE: 0.18563121591114806
+
+Word: "state"
+Complexity: 0.1944444444444444
+Predicted complexity: 0.2012430523924801
+MSE: 0.18535002652502516
+
+Word: "state"
+Complexity: 0.2
+Predicted complexity: 0.2012430523924801
+MSE: 0.18506962035052324
+
+Word: "state"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.2012430523924801
+MSE: 0.18479031595577813
+
+Word: "Christian"
+Complexity: 0.1973684210526316
+Predicted complexity: 0.25270183661496876
+MSE: 0.18451621561026083
+
+Word: "presidency"
+Complexity: 0.25
+Predicted complexity: 0.19575808378297838
+MSE: 0.18424276074559912
+
+Word: "presidency"
+Complexity: 0.3636363636363637
+Predicted complexity: 0.19575808378297838
+MSE: 0.1840080845893599
+
+Word: "text_file"
+Complexity: 0.2
+Predicted complexity: 0.18060269036054138
+MSE: 0.18373236112244082
+
+Word: "freedom"
+Complexity: 0.203125
+Predicted complexity: 0.26688578435966565
+MSE: 0.1834629954200416
+
+Word: "estimate"
+Complexity: 0.2058823529411765
+Predicted complexity: 0.220432681953107
+MSE: 0.18318866715156004
+
+Word: "streamer"
+Complexity: 0.2083333333333333
+Predicted complexity: 0.15893021716458924
+MSE: 0.18291849076999894
+
+Word: "communication"
+Complexity: 0.2083333333333333
+Predicted complexity: 0.25287683265733457
+MSE: 0.1826484394753154
+
+Word: "grouping"
+Complexity: 0.21052631578947367
+Predicted complexity: 0.20076788773766824
+MSE: 0.18237637805570697
+
+Word: "situation"
+Complexity: 0.2115384615384616
+Predicted complexity: 0.2228447980525099
+MSE: 0.18210517486402492
+
+Word: "resource"
+Complexity: 0.2125
+Predicted complexity: 0.23656441320819266
+MSE: 0.18183544814949154
+
+Word: "resource"
+Complexity: 0.2375
+Predicted complexity: 0.23656441320819266
+MSE: 0.18156566391681075
+
+Word: "resource"
+Complexity: 0.2666666666666667
+Predicted complexity: 0.23656441320819266
+MSE: 0.18129802018606478
+
+Word: "attention"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.1971158063066282
+MSE: 0.18103026395167712
+
+Word: "attention"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.1971158063066282
+MSE: 0.18076519440201258
+
+Word: "attention"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.1971158063066282
+MSE: 0.18051419139745495
+
+Word: "sake"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.2162163707497216
+MSE: 0.18024834388057265
+
+Word: "sake"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.2162163707497216
+MSE: 0.17998327308481651
+
+Word: "sake"
+Complexity: 0.21875
+Predicted complexity: 0.2162163707497216
+MSE: 0.17971898989273483
+
+Word: "sake"
+Complexity: 0.25
+Predicted complexity: 0.2162163707497216
+MSE: 0.17945714582193217
+
+Word: "commissioner"
+Complexity: 0.2142857142857143
+Predicted complexity: 0.20730883084413843
+MSE: 0.17919446870784816
+
+Word: "commissioner"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.20730883084413843
+MSE: 0.17894093838075878
+
+Word: "commissioner"
+Complexity: 0.3375
+Predicted complexity: 0.20730883084413843
+MSE: 0.17870445488024114
+
+Word: "commissioner"
+Complexity: 0.3666666666666667
+Predicted complexity: 0.20730883084413843
+MSE: 0.1784809715930076
+
+Word: "survey"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.2531457973571545
+MSE: 0.17822311097493326
+
+Word: "Lithuania"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.2034872513684171
+MSE: 0.1779643182220447
+
+Word: "Lithuania"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.2034872513684171
+MSE: 0.17772212869120288
+
+Word: "Lithuania"
+Complexity: 0.32352941176470584
+Predicted complexity: 0.2034872513684171
+MSE: 0.17748544462103102
+
+Word: "Lithuania"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.2034872513684171
+MSE: 0.17726454713411227
+
+Word: "Lithuania"
+Complexity: 0.42647058823529416
+Predicted complexity: 0.2034872513684171
+MSE: 0.17708023647137552
+
+Word: "reliant"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.0
+MSE: 0.17689245033569453
+
+Word: "garbage"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.21901860876164367
+MSE: 0.1766375700493774
+
+Word: "rewrite"
+Complexity: 0.21666666666666667
+Predicted complexity: 0.23566669495670256
+MSE: 0.1763839346983352
+
+Word: "rewrite"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.23566669495670256
+MSE: 0.1761307692086064
+
+Word: "rewrite"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.23566669495670256
+MSE: 0.17587807281316992
+
+Word: "rewrite"
+Complexity: 0.4117647058823529
+Predicted complexity: 0.23566669495670256
+MSE: 0.17567052616078999
+
+Word: "exemption"
+Complexity: 0.21875
+Predicted complexity: 0.15729078372325955
+MSE: 0.1754246130121556
+
+Word: "exemption"
+Complexity: 0.2941176470588235
+Predicted complexity: 0.15729078372325955
+MSE: 0.17520075155146717
+
+Word: "exemption"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.15729078372325955
+MSE: 0.17498705671624964
+
+Word: "migrant"
+Complexity: 0.21875
+Predicted complexity: 0.25042461977247976
+MSE: 0.1747392165806677
+
+Word: "migrant"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.25042461977247976
+MSE: 0.17449091681981385
+
+Word: "migrant"
+Complexity: 0.2647058823529411
+Predicted complexity: 0.25042461977247976
+MSE: 0.17424335011191763
+
+Word: "migrant"
+Complexity: 0.3472222222222222
+Predicted complexity: 0.25042461977247976
+MSE: 0.17400948688600004
+
+Word: "migrant"
+Complexity: 0.36764705882352944
+Predicted complexity: 0.25042461977247976
+MSE: 0.17378247783972678
+
+Word: "conventionality"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.2156614774290783
+MSE: 0.17353670951596914
+
+Word: "meanwhile"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.0
+MSE: 0.17336032880980276
+
+Word: "writer"
+Complexity: 0.22058823529411764
+Predicted complexity: 0.2518129371714291
+MSE: 0.17311719009781054
+
+Word: "writer"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.2518129371714291
+MSE: 0.17287371031928073
+
+Word: "writer"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.2518129371714291
+MSE: 0.17263700189516923
+
+Word: "liberal"
+Complexity: 0.2222222222222222
+Predicted complexity: 0.25165330286332366
+MSE: 0.1723957507527711
+
+Word: "successor"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.2505214094488769
+MSE: 0.1721560895030605
+
+Word: "interpretation"
+Complexity: 0.225
+Predicted complexity: 0.22244978820460595
+MSE: 0.17191498364042343
+
+Word: "strategy"
+Complexity: 0.225
+Predicted complexity: 0.18906487183932075
+MSE: 0.17167634916461294
+
+Word: "strategy"
+Complexity: 0.23214285714285715
+Predicted complexity: 0.18906487183932075
+MSE: 0.17143916950491073
+
+Word: "strategy"
+Complexity: 0.2375
+Predicted complexity: 0.18906487183932075
+MSE: 0.17120333518431802
+
+Word: "strategy"
+Complexity: 0.26388888888888884
+Predicted complexity: 0.18906487183932075
+MSE: 0.17097268796752568
+
+Word: "strategy"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.18906487183932075
+MSE: 0.17074891778899198
+
+Word: "handicap"
+Complexity: 0.23214285714285715
+Predicted complexity: 0.2138976914976055
+MSE: 0.17051222885604816
+
+Word: "handicap"
+Complexity: 0.2666666666666667
+Predicted complexity: 0.2138976914976055
+MSE: 0.17027959686698343
+
+Word: "kind"
+Complexity: 0.2333333333333333
+Predicted complexity: 0.19386636763138304
+MSE: 0.1700459099480288
+
+Word: "liberal"
+Complexity: 0.2333333333333333
+Predicted complexity: 0.25165330286332366
+MSE: 0.1698111792583131
+
+Word: "liberal"
+Complexity: 0.25
+Predicted complexity: 0.25165330286332366
+MSE: 0.1695766372060369
+
+Word: "liberal"
+Complexity: 0.25
+Predicted complexity: 0.25165330286332366
+MSE: 0.16934274216631873
+
+Word: "liberal"
+Complexity: 0.2763157894736842
+Predicted complexity: 0.25165330286332366
+MSE: 0.1691103254942519
+
+Word: "liberal"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.25165330286332366
+MSE: 0.16888688849546696
+
+Word: "sealing_wax"
+Complexity: 0.25
+Predicted complexity: 0.18185338005913057
+MSE: 0.16866128007968934
+
+Word: "condolence"
+Complexity: 0.234375
+Predicted complexity: 0.23488839960711738
+MSE: 0.16842992066062137
+
+Word: "condolence"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.23488839960711738
+MSE: 0.16819919678988549
+
+Word: "condolence"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.23488839960711738
+MSE: 0.16797058904876594
+
+Word: "incentive"
+Complexity: 0.234375
+Predicted complexity: 0.23529442801779216
+MSE: 0.1677411221857866
+
+Word: "incentive"
+Complexity: 0.25
+Predicted complexity: 0.23529442801779216
+MSE: 0.16751257529855815
+
+Word: "sector"
+Complexity: 0.2352941176470588
+Predicted complexity: 0.20339735200756293
+MSE: 0.16728574263964766
+
+Word: "sector"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.20339735200756293
+MSE: 0.16709198466300945
+
+Word: "yesterday"
+Complexity: 0.2625
+Predicted complexity: 0.00031311317997745585
+MSE: 0.16695835691702762
+
+Word: "observation"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.181956417975882
+MSE: 0.16673579840124952
+
+Word: "observation"
+Complexity: 0.3055555555555556
+Predicted complexity: 0.181956417975882
+MSE: 0.1665305693340533
+
+Word: "association"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.284085414676601
+MSE: 0.16630833789219748
+
+Word: "Indonesia"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.1952445159657306
+MSE: 0.16608585375801718
+
+Word: "Indonesia"
+Complexity: 0.29166666666666663
+Predicted complexity: 0.1952445159657306
+MSE: 0.165874263174195
+
+Word: "Indonesia"
+Complexity: 0.296875
+Predicted complexity: 0.1952445159657306
+MSE: 0.16566463310965437
+
+Word: "republic"
+Complexity: 0.2361111111111111
+Predicted complexity: 0.23516969348365013
+MSE: 0.1654416670977533
+
+Word: "territory"
+Complexity: 0.2368421052631579
+Predicted complexity: 0.22272757490421619
+MSE: 0.16521956703440585
+
+Word: "territory"
+Complexity: 0.265625
+Predicted complexity: 0.22272757490421619
+MSE: 0.16500026585594335
+
+Word: "hypothesis"
+Complexity: 0.3472222222222222
+Predicted complexity: 0.21126250626089918
+MSE: 0.1648038647547481
+
+Word: "serve"
+Complexity: 0.25
+Predicted complexity: 0.21716118014971966
+MSE: 0.16458468740981425
+
+Word: "decoration"
+Complexity: 0.25
+Predicted complexity: 0.21267121962688113
+MSE: 0.16436651729007404
+
+Word: "assets"
+Complexity: 0.25
+Predicted complexity: 0.25329910917874315
+MSE: 0.16414708386795293
+
+Word: "broadcaster"
+Complexity: 0.25
+Predicted complexity: 0.18243207071703613
+MSE: 0.16393430832288577
+
+Word: "broadcaster"
+Complexity: 0.2894736842105263
+Predicted complexity: 0.18243207071703613
+MSE: 0.1637312771626946
+
+Word: "broadcaster"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.18243207071703613
+MSE: 0.16354582951277347
+
+Word: "service"
+Complexity: 0.25
+Predicted complexity: 0.3101847993176254
+MSE: 0.16333344754804058
+
+Word: "security"
+Complexity: 0.25
+Predicted complexity: 0.14926836593556858
+MSE: 0.16313028231535256
+
+Word: "security"
+Complexity: 0.2727272727272727
+Predicted complexity: 0.14926836593556858
+MSE: 0.16293440393038683
+
+Word: "security"
+Complexity: 0.32352941176470584
+Predicted complexity: 0.14926836593556858
+MSE: 0.16275905010520572
+
+Word: "sequel"
+Complexity: 0.25
+Predicted complexity: 0.19695823548812835
+MSE: 0.16254776130557205
+
+Word: "sequel"
+Complexity: 0.296875
+Predicted complexity: 0.19695823548812835
+MSE: 0.16234648900811155
+
+Word: "sequel"
+Complexity: 0.3026315789473685
+Predicted complexity: 0.19695823548812835
+MSE: 0.16214730635529173
+
+Word: "sequel"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.19695823548812835
+MSE: 0.16195842590918252
+
+Word: "sequel"
+Complexity: 0.4166666666666666
+Predicted complexity: 0.19695823548812835
+MSE: 0.16180903480382344
+
+Word: "textile"
+Complexity: 0.25
+Predicted complexity: 0.0
+MSE: 0.16167870798649558
+
+Word: "general"
+Complexity: 0.26190476190476186
+Predicted complexity: 0.25224296783546923
+MSE: 0.1614669316329938
+
+Word: "currentness"
+Complexity: 0.2631578947368421
+Predicted complexity: 0.1832514147268466
+MSE: 0.16126394487110193
+
+Word: "currentness"
+Complexity: 0.3125
+Predicted complexity: 0.1832514147268466
+MSE: 0.16107497918734245
+
+Word: "protective_covering"
+Complexity: 0.26388888888888884
+Predicted complexity: 0.23029743726474922
+MSE: 0.1608661716239415
+
+Word: "technology"
+Complexity: 0.2647058823529411
+Predicted complexity: 0.19710059137451807
+MSE: 0.16066239627028356
+
+Word: "tax_write-off"
+Complexity: 0.265625
+Predicted complexity: 0.16760766586474934
+MSE: 0.16046571007434698
+
+Word: "Syria"
+Complexity: 0.265625
+Predicted complexity: 0.1808977173939402
+MSE: 0.16026637717752443
+
+Word: "Syria"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.1808977173939402
+MSE: 0.16008316785076973
+
+Word: "consultation"
+Complexity: 0.2666666666666667
+Predicted complexity: 0.19680063239741333
+MSE: 0.15988186836295357
+
+Word: "consultation"
+Complexity: 0.3478260869565217
+Predicted complexity: 0.19680063239741333
+MSE: 0.1597043124297435
+
+Word: "consultation"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.19680063239741333
+MSE: 0.15953263535469225
+
+Word: "consultation"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.19680063239741333
+MSE: 0.15936140188965406
+
+Word: "economist"
+Complexity: 0.2666666666666667
+Predicted complexity: 0.22614056677249011
+MSE: 0.15915789345466436
+
+Word: "Elizabeth"
+Complexity: 0.2678571428571429
+Predicted complexity: 0.1763995310621452
+MSE: 0.1589635720645878
+
+Word: "line"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.18596299387077625
+MSE: 0.15877118778008645
+
+Word: "administration"
+Complexity: 0.27380952380952384
+Predicted complexity: 0.2353895577301718
+MSE: 0.15856900899604207
+
+Word: "administration"
+Complexity: 0.3157894736842105
+Predicted complexity: 0.2353895577301718
+MSE: 0.15837375243312726
+
+Word: "administration"
+Complexity: 0.36764705882352944
+Predicted complexity: 0.2353895577301718
+MSE: 0.15819313486154052
+
+Word: "administration"
+Complexity: 0.3913043478260869
+Predicted complexity: 0.2353895577301718
+MSE: 0.15802170885246128
+
+Word: "administration"
+Complexity: 0.4117647058823529
+Predicted complexity: 0.2353895577301718
+MSE: 0.15785941535378256
+
+Word: "seventy"
+Complexity: 0.275
+Predicted complexity: 0.19352647168163367
+MSE: 0.15766628447314765
+
+Word: "conventionality"
+Complexity: 0.2763157894736842
+Predicted complexity: 0.2156614774290783
+MSE: 0.1574698720510768
+
+Word: "conventionality"
+Complexity: 0.2833333333333333
+Predicted complexity: 0.2156614774290783
+MSE: 0.15727510722054233
+
+Word: "conventionality"
+Complexity: 0.29166666666666663
+Predicted complexity: 0.2156614774290783
+MSE: 0.15708236126834196
+
+Word: "treaty"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.20251030386646043
+MSE: 0.15688996334122715
+
+Word: "treaty"
+Complexity: 0.3461538461538461
+Predicted complexity: 0.20251030386646043
+MSE: 0.15671704900607442
+
+Word: "referendum"
+Complexity: 0.2777777777777778
+Predicted complexity: 0.23039340160499766
+MSE: 0.15652126729517354
+
+Word: "legislation"
+Complexity: 0.2794117647058824
+Predicted complexity: 0.21117955180526363
+MSE: 0.15632903231742942
+
+Word: "legislation"
+Complexity: 0.3382352941176471
+Predicted complexity: 0.21117955180526363
+MSE: 0.15615180618511226
+
+Word: "auditor"
+Complexity: 0.28125
+Predicted complexity: 0.20618550775345904
+MSE: 0.15596175930608588
+
+Word: "auditor"
+Complexity: 0.3421052631578947
+Predicted complexity: 0.20618550775345904
+MSE: 0.1557883827873004
+
+Word: "auditor"
+Complexity: 0.3529411764705882
+Predicted complexity: 0.20618550775345904
+MSE: 0.15561930072623403
+
+Word: "auditor"
+Complexity: 0.375
+Predicted complexity: 0.20618550775345904
+MSE: 0.1554594001376381
+
+Word: "auditor"
+Complexity: 0.4078947368421053
+Predicted complexity: 0.20618550775345904
+MSE: 0.15531521321924852
+
+Word: "chapter"
+Complexity: 0.28125
+Predicted complexity: 0.22612322331387733
+MSE: 0.1551241514228728
+
+Word: "prohibition"
+Complexity: 0.28125
+Predicted complexity: 0.17149854525929528
+MSE: 0.1549448547191069
+
+Word: "summary"
+Complexity: 0.28125
+Predicted complexity: 0.2389478534518884
+MSE: 0.15475317088541915
+
+Word: "surname"
+Complexity: 0.2857142857142857
+Predicted complexity: 0.2119802139837122
+MSE: 0.15456652531347984
+
+Word: "rummy"
+Complexity: 0.2875
+Predicted complexity: 0.19683535960882567
+MSE: 0.15438382063395895
+
+Word: "visa"
+Complexity: 0.29166666666666663
+Predicted complexity: 0.18695241584968542
+MSE: 0.15420499426698914
+
+Word: "treaty"
+Complexity: 0.296875
+Predicted complexity: 0.20251030386646043
+MSE: 0.1540240474445849
+
+Word: "treaty"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.20251030386646043
+MSE: 0.15384429644136052
+
+Word: "treaty"
+Complexity: 0.328125
+Predicted complexity: 0.20251030386646043
+MSE: 0.15367278682079327
+
+Word: "treaty"
+Complexity: 0.3571428571428571
+Predicted complexity: 0.20251030386646043
+MSE: 0.1535117923291208
+
+Word: "treaty"
+Complexity: 0.375
+Predicted complexity: 0.20251030386646043
+MSE: 0.15335843533152863
+
+Word: "detention"
+Complexity: 0.296875
+Predicted complexity: 0.20961263142704795
+MSE: 0.15317805944741653
+
+Word: "commissioner"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.20730883084413843
+MSE: 0.15299933706594815
+
+Word: "volcanic_eruption"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.22579201915016783
+MSE: 0.15281724754416526
+
+Word: "president"
+Complexity: 0.30000000000000004
+Predicted complexity: 0.22828995621725057
+MSE: 0.15263515763397434
+
+Word: "act"
+Complexity: 0.3026315789473685
+Predicted complexity: 0.2538410558282018
+MSE: 0.1524501149708121
+
+Word: "telecommunication"
+Complexity: 0.3026315789473685
+Predicted complexity: 0.17504281305624902
+MSE: 0.15228262269308862
+
+Word: "license"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.19981230603118483
+MSE: 0.15211014213305157
+
+Word: "catastrophe"
+Complexity: 0.3088235294117647
+Predicted complexity: 0.20658007726464409
+MSE: 0.15193633057645514
+
+Word: "catastrophe"
+Complexity: 0.4666666666666667
+Predicted complexity: 0.20658007726464409
+MSE: 0.15183303241886975
+
+Word: "summit"
+Complexity: 0.3125
+Predicted complexity: 0.30979853745790764
+MSE: 0.1516471992064842
+
+Word: "decision"
+Complexity: 0.3125
+Predicted complexity: 0.20793288058487286
+MSE: 0.15147517852586842
+
+Word: "tribute"
+Complexity: 0.3152173913043478
+Predicted complexity: 0.19458763069337504
+MSE: 0.15130799459500052
+
+Word: "solution"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.24199954219191527
+MSE: 0.15113027164973508
+
+Word: "solution"
+Complexity: 0.325
+Predicted complexity: 0.24199954219191527
+MSE: 0.15095458200825715
+
+Word: "solution"
+Complexity: 0.33333333333333337
+Predicted complexity: 0.24199954219191527
+MSE: 0.15078108721433503
+
+Word: "solution"
+Complexity: 0.3472222222222222
+Predicted complexity: 0.24199954219191527
+MSE: 0.150611331108841
+
+Word: "fatality"
+Complexity: 0.31666666666666665
+Predicted complexity: 0.20733810580097375
+MSE: 0.15044305611261785
+
+Word: "kilogram"
+Complexity: 0.3194444444444444
+Predicted complexity: 0.19569989670360724
+MSE: 0.1502792617574457
+
+Word: "investment"
+Complexity: 0.32352941176470584
+Predicted complexity: 0.19858108263973098
+MSE: 0.15011622643443562
+
+Word: "inhabitant"
+Complexity: 0.368421052631579
+Predicted complexity: 0.2874999057450835
+MSE: 0.1499426254738298
+
+Word: "rationality"
+Complexity: 0.325
+Predicted complexity: 0.23632232815308563
+MSE: 0.1497710326042771
+
+Word: "propriety"
+Complexity: 0.328125
+Predicted complexity: 0.23493962496422033
+MSE: 0.14960084259404344
+
+Word: "preparation"
+Complexity: 0.328125
+Predicted complexity: 0.2137246721325273
+MSE: 0.14943636860900986
+
+Word: "mission"
+Complexity: 0.34375
+Predicted complexity: 0.21546504087998863
+MSE: 0.14927634533840506
+
+Word: "overfishing"
+Complexity: 0.34375
+Predicted complexity: 2.957250343761546
+MSE: 0.1573065228642504
+
+Word: "defect"
+Complexity: 0.34375
+Predicted complexity: 0.19766063872289769
+MSE: 0.15714330026954942
+
+Word: "request"
+Complexity: 0.35
+Predicted complexity: 0.263262504756811
+MSE: 0.15696389990121792
+
+Word: "classification"
+Complexity: 0.35
+Predicted complexity: 0.25532689360468364
+MSE: 0.15678665331100636
+
+Word: "coastline"
+Complexity: 0.35
+Predicted complexity: 0.18384417612371726
+MSE: 0.15663213310107452
+
+Word: "outgo"
+Complexity: 0.3529411764705882
+Predicted complexity: 0.2297440747927477
+MSE: 0.15646313118083646
+
+Word: "outgo"
+Complexity: 0.421875
+Predicted complexity: 0.2297440747927477
+MSE: 0.15632047146871253
+
+Word: "recycle"
+Complexity: 0.3571428571428571
+Predicted complexity: 0.30981758391204517
+MSE: 0.15613682332808995
+
+Word: "Ukrainian"
+Complexity: 0.3611111111111112
+Predicted complexity: 0.1804888223720856
+MSE: 0.15598978474221045
+
+Word: "Caspian"
+Complexity: 0.3666666666666667
+Predicted complexity: 0.2238283234654225
+MSE: 0.155828563585904
+
+Word: "sender"
+Complexity: 0.368421052631579
+Predicted complexity: 0.2508351905940435
+MSE: 0.1556599149770741
+
+Word: "fragmentation"
+Complexity: 0.375
+Predicted complexity: 0.1758999484053758
+MSE: 0.15552228854239783
+
+Word: "statehood"
+Complexity: 0.375
+Predicted complexity: 2.9584039581266923
+MSE: 0.1632455749432536
+
+Word: "subcommittee"
+Complexity: 0.375
+Predicted complexity: 0.18326853537090618
+MSE: 0.16309588900193475
+
+Word: "Anne"
+Complexity: 0.375
+Predicted complexity: 0.1763995310621452
+MSE: 0.16294972618545767
+
+Word: "envoy"
+Complexity: 0.381578947368421
+Predicted complexity: 0.18238993581126514
+MSE: 0.16280418490581147
+
+Word: "midland"
+Complexity: 0.3833333333333333
+Predicted complexity: 0.21552403737197742
+MSE: 0.1626454063384827
+
+Word: "doctor's_degree"
+Complexity: 0.3970588235294118
+Predicted complexity: 0.19592698755569368
+MSE: 0.16250148243872262
+
+Word: "exhibition"
+Complexity: 0.4
+Predicted complexity: 0.2564943143752811
+MSE: 0.1623345323203319
+
+Word: "millennium"
+Complexity: 0.4027777777777778
+Predicted complexity: 0.2062558076337857
+MSE: 0.162189157881353
+
+Word: "democracy"
+Complexity: 0.40625
+Predicted complexity: 0.235069169853083
+MSE: 0.16203318806765396
+
+Word: "ossification"
+Complexity: 0.4078947368421053
+Predicted complexity: 0.19788476184119735
+MSE: 0.1618949360178676
+
+Word: "adjournment"
+Complexity: 0.4125
+Predicted complexity: 0.1940365577067434
+MSE: 0.1617612490618966
+
+Word: "reunion"
+Complexity: 0.4166666666666666
+Predicted complexity: 0.17128474276765207
+MSE: 0.16164247834787848
+
+Word: "uniformity"
+Complexity: 0.4166666666666666
+Predicted complexity: 0.23632232815308563
+MSE: 0.16149163909797895
+
+Word: "enterprise"
+Complexity: 0.4166666666666666
+Predicted complexity: 0.1977184346609878
+MSE: 0.16135913815188846
+
+Word: "enterprise"
+Complexity: 0.45
+Predicted complexity: 0.1977184346609878
+MSE: 0.16124525336174628
+
+Word: "Qatar"
+Complexity: 0.421875
+Predicted complexity: 0.23132260545434022
+MSE: 0.1610998109423113
+
+Word: "leukemia"
+Complexity: 0.421875
+Predicted complexity: 0.13750733586648306
+MSE: 0.16100651461377924
+
+Word: "Portuguese"
+Complexity: 0.42647058823529416
+Predicted complexity: 0.22835417087993912
+MSE: 0.16086510183818337
+
+Word: "efficiency"
+Complexity: 0.4285714285714286
+Predicted complexity: 0.24072585581682449
+MSE: 0.16071941837805032
+
+Word: "Herman"
+Complexity: 0.4285714285714286
+Predicted complexity: 0.1895623862114665
+MSE: 0.1605993788693038
+
+Word: "draftsman"
+Complexity: 0.4305555555555556
+Predicted complexity: 0.2290813009933403
+MSE: 0.160460481295672
+
+Word: "draftsman"
+Complexity: 0.453125
+Predicted complexity: 0.2290813009933403
+MSE: 0.16033300742026033
+
+Word: "omnibus"
+Complexity: 0.4375
+Predicted complexity: 0.15647161761101494
+MSE: 0.1602390627831794
+
+Word: "omnibus"
+Complexity: 0.5138888888888888
+Predicted complexity: 0.15647161761101494
+MSE: 0.16020158647755603
+
+Word: "omnibus"
+Complexity: 0.5384615384615384
+Predicted complexity: 0.15647161761101494
+MSE: 0.1601851287738162
+
+Word: "attainment"
+Complexity: 0.45
+Predicted complexity: 0.19642217641505846
+MSE: 0.16007479112576126
+
+Word: "bureaucracy"
+Complexity: 0.4673913043478261
+Predicted complexity: 0.19702654701557687
+MSE: 0.15997481677045272
+
+Word: "vitamin_E"
+Complexity: 0.46875
+Predicted complexity: 0.2080291693180122
+MSE: 0.15986919166687183
+
+Word: "caldera"
+Complexity: 0.4852941176470589
+Predicted complexity: 0.23110896866761552
+MSE: 0.15975994957776038
+
+Word: "eagerness"
+Complexity: 0.4861111111111112
+Predicted complexity: 0.21927184527926463
+MSE: 0.15965850999495615
+
+Word: "suspension"
+Complexity: 0.4861111111111112
+Predicted complexity: 0.22579201915016783
+MSE: 0.15955336985724952
+
+Word: "NL"
+Complexity: 0.5
+Predicted complexity: 0.30425992725705214
+MSE: 0.159414810778644
+
+Word: "NL"
+Complexity: 0.53125
+Predicted complexity: 0.30425992725705214
+MSE: 0.15929164831556775
+
+Word: "NL"
+Complexity: 0.5666666666666667
+Predicted complexity: 0.30425992725705214
+MSE: 0.1591885304690136
+
+Word: "Kivu"
+Complexity: 0.5166666666666667
+Predicted complexity: 0.2238283234654225
+MSE: 0.15910489238789724
+
+Word: "Kivu"
+Complexity: 0.5357142857142857
+Predicted complexity: 0.2238283234654225
+MSE: 0.15903454877135573
+
+Word: "supplementary"
+Complexity: 0.525
+Predicted complexity: 0.0004928633388534028
+MSE: 0.15916645012094335
+
+Word: "farming"
+Complexity: 0.53125
+Predicted complexity: 0.15617154355190305
+MSE: 0.15914547100445134
+
+Word: "dissemination"
+Complexity: 0.5333333333333333
+Predicted complexity: 0.21137141255366454
+MSE: 0.15908256171582058
+
+Word: "dissemination"
+Complexity: 0.5694444444444444
+Predicted complexity: 0.21137141255366454
+MSE: 0.15904760558269673
+
+Word: "declination"
+Complexity: 0.5357142857142857
+Predicted complexity: 0.2093027487662953
+MSE: 0.1589882129196538
+
+Word: "radiological"
+Complexity: 0.546875
+Predicted complexity: 0.0
+MSE: 0.15914649998485758
+
+Word: "Sidi"
+Complexity: 0.5714285714285714
+Predicted complexity: 2.951374765628665
+MSE: 0.16535981532041363
+
+Word: "dell"
+Complexity: 0.5833333333333334
+Predicted complexity: 0.19489860341169493
+MSE: 0.16534349257417785
+
